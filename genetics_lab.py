@@ -42,6 +42,9 @@ def mutate(member):
 		mask = mask << 1
 	return member
 
+def basic_output(gene):
+	return ene_string(gene) + " -> " + str(fitness(gene))
+
 def mate_pair(population):
 	(memberA, memberB) = \
 	(roulette_select(population), roulette_select(population))
@@ -69,7 +72,7 @@ def max_member(population):
 			max_fitness = mem_fit
 	return alpha
 
-def run_genetic_algorithm(pop_size, encoding_length, mutation_rate, crossover_rate, max_generations, fitness_func, create_random_gene, output, fitness_threshold, verbose=False):
+def run_genetic_algorithm(pop_size, encoding_length, mutation_rate, crossover_rate, max_generations, fitness_func, create_random_gene, output=basic_output, fitness_threshold, verbose=False, use_alpha=False):
 
 	global POP_SIZE, ENCODING_LENGTH, MUTATION_RATE, CROSSOVER_RATE, NUM_GENERATIONS, fitness
 
