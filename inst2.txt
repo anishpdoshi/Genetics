@@ -1,0 +1,718 @@
+{'name': 'Bulbasaur', 'weight': u'69', 'generation': 1, 'hp': 45, 'attack': 49, 'defense': 49, 'sp_atk': 65, 'sp_def': 65, 'speed': 45, 'id': 1, 'types': ['poison', 'grass']}
+{'name': 'Ivysaur', 'weight': u'130', 'generation': 1, 'hp': 60, 'attack': 62, 'defense': 63, 'sp_atk': 80, 'sp_def': 80, 'speed': 60, 'id': 2, 'types': ['poison', 'grass']}
+{'name': 'Venusaur', 'weight': u'1000', 'generation': 1, 'hp': 80, 'attack': 82, 'defense': 83, 'sp_atk': 100, 'sp_def': 100, 'speed': 80, 'id': 3, 'types': ['poison', 'grass']}
+{'name': 'Charmander', 'weight': u'85', 'generation': 1, 'hp': 39, 'attack': 52, 'defense': 43, 'sp_atk': 60, 'sp_def': 50, 'speed': 65, 'id': 4, 'types': ['fire']}
+{'name': 'Charmeleon', 'weight': u'190', 'generation': 1, 'hp': 58, 'attack': 64, 'defense': 58, 'sp_atk': 80, 'sp_def': 65, 'speed': 80, 'id': 5, 'types': ['fire']}
+{'name': 'Charizard', 'weight': u'905', 'generation': 1, 'hp': 78, 'attack': 84, 'defense': 78, 'sp_atk': 109, 'sp_def': 85, 'speed': 100, 'id': 6, 'types': ['flying', 'fire']}
+{'name': 'Squirtle', 'weight': u'90', 'generation': 1, 'hp': 44, 'attack': 48, 'defense': 65, 'sp_atk': 50, 'sp_def': 64, 'speed': 43, 'id': 7, 'types': ['water']}
+{'name': 'Wartortle', 'weight': u'225', 'generation': 1, 'hp': 59, 'attack': 63, 'defense': 80, 'sp_atk': 65, 'sp_def': 80, 'speed': 58, 'id': 8, 'types': ['water']}
+{'name': 'Blastoise', 'weight': u'855', 'generation': 1, 'hp': 79, 'attack': 83, 'defense': 100, 'sp_atk': 85, 'sp_def': 105, 'speed': 78, 'id': 9, 'types': ['water']}
+{'name': 'Caterpie', 'weight': u'29', 'generation': 1, 'hp': 45, 'attack': 30, 'defense': 35, 'sp_atk': 20, 'sp_def': 20, 'speed': 45, 'id': 10, 'types': ['bug']}
+{'name': 'Metapod', 'weight': u'99', 'generation': 1, 'hp': 50, 'attack': 20, 'defense': 55, 'sp_atk': 25, 'sp_def': 25, 'speed': 30, 'id': 11, 'types': ['bug']}
+{'name': 'Butterfree', 'weight': u'320', 'generation': 1, 'hp': 60, 'attack': 45, 'defense': 50, 'sp_atk': 90, 'sp_def': 80, 'speed': 70, 'id': 12, 'types': ['flying', 'bug']}
+{'name': 'Weedle', 'weight': u'32', 'generation': 1, 'hp': 40, 'attack': 35, 'defense': 30, 'sp_atk': 20, 'sp_def': 20, 'speed': 50, 'id': 13, 'types': ['poison', 'bug']}
+{'name': 'Kakuna', 'weight': u'100', 'generation': 1, 'hp': 45, 'attack': 25, 'defense': 50, 'sp_atk': 25, 'sp_def': 25, 'speed': 35, 'id': 14, 'types': ['poison', 'bug']}
+{'name': 'Beedrill', 'weight': u'295', 'generation': 1, 'hp': 65, 'attack': 90, 'defense': 40, 'sp_atk': 45, 'sp_def': 80, 'speed': 75, 'id': 15, 'types': ['poison', 'bug']}
+{'name': 'Pidgey', 'weight': u'18', 'generation': 1, 'hp': 40, 'attack': 45, 'defense': 40, 'sp_atk': 35, 'sp_def': 35, 'speed': 56, 'id': 16, 'types': ['normal', 'flying']}
+{'name': 'Pidgeotto', 'weight': u'300', 'generation': 1, 'hp': 63, 'attack': 60, 'defense': 55, 'sp_atk': 50, 'sp_def': 50, 'speed': 71, 'id': 17, 'types': ['normal', 'flying']}
+{'name': 'Pidgeot', 'weight': u'395', 'generation': 1, 'hp': 83, 'attack': 80, 'defense': 75, 'sp_atk': 70, 'sp_def': 70, 'speed': 101, 'id': 18, 'types': ['normal', 'flying']}
+{'name': 'Rattata', 'weight': u'35', 'generation': 1, 'hp': 30, 'attack': 56, 'defense': 35, 'sp_atk': 25, 'sp_def': 35, 'speed': 72, 'id': 19, 'types': ['normal']}
+{'name': 'Raticate', 'weight': u'185', 'generation': 1, 'hp': 55, 'attack': 81, 'defense': 60, 'sp_atk': 50, 'sp_def': 70, 'speed': 97, 'id': 20, 'types': ['normal']}
+{'name': 'Spearow', 'weight': u'20', 'generation': 1, 'hp': 40, 'attack': 60, 'defense': 30, 'sp_atk': 31, 'sp_def': 31, 'speed': 70, 'id': 21, 'types': ['normal', 'flying']}
+{'name': 'Fearow', 'weight': u'380', 'generation': 1, 'hp': 65, 'attack': 90, 'defense': 65, 'sp_atk': 61, 'sp_def': 61, 'speed': 100, 'id': 22, 'types': ['normal', 'flying']}
+{'name': 'Ekans', 'weight': u'69', 'generation': 1, 'hp': 35, 'attack': 60, 'defense': 44, 'sp_atk': 40, 'sp_def': 54, 'speed': 55, 'id': 23, 'types': ['poison']}
+{'name': 'Arbok', 'weight': u'650', 'generation': 1, 'hp': 60, 'attack': 85, 'defense': 69, 'sp_atk': 65, 'sp_def': 79, 'speed': 80, 'id': 24, 'types': ['poison']}
+{'name': 'Pikachu', 'weight': u'60', 'generation': 1, 'hp': 35, 'attack': 55, 'defense': 40, 'sp_atk': 50, 'sp_def': 50, 'speed': 90, 'id': 25, 'types': ['electric']}
+{'name': 'Raichu', 'weight': u'300', 'generation': 1, 'hp': 60, 'attack': 90, 'defense': 55, 'sp_atk': 90, 'sp_def': 80, 'speed': 110, 'id': 26, 'types': ['electric']}
+{'name': 'Sandshrew', 'weight': u'120', 'generation': 1, 'hp': 50, 'attack': 75, 'defense': 85, 'sp_atk': 20, 'sp_def': 30, 'speed': 40, 'id': 27, 'types': ['ground']}
+{'name': 'Sandslash', 'weight': u'295', 'generation': 1, 'hp': 75, 'attack': 100, 'defense': 110, 'sp_atk': 45, 'sp_def': 55, 'speed': 65, 'id': 28, 'types': ['ground']}
+{'name': 'Nidoran-f', 'weight': u'70', 'generation': 1, 'hp': 55, 'attack': 47, 'defense': 52, 'sp_atk': 40, 'sp_def': 40, 'speed': 41, 'id': 29, 'types': ['poison']}
+{'name': 'Nidorina', 'weight': u'200', 'generation': 1, 'hp': 70, 'attack': 62, 'defense': 67, 'sp_atk': 55, 'sp_def': 55, 'speed': 56, 'id': 30, 'types': ['poison']}
+{'name': 'Nidoqueen', 'weight': u'600', 'generation': 1, 'hp': 90, 'attack': 92, 'defense': 87, 'sp_atk': 75, 'sp_def': 85, 'speed': 76, 'id': 31, 'types': ['poison', 'ground']}
+{'name': 'Nidoran-m', 'weight': u'90', 'generation': 1, 'hp': 46, 'attack': 57, 'defense': 40, 'sp_atk': 40, 'sp_def': 40, 'speed': 50, 'id': 32, 'types': ['poison']}
+{'name': 'Nidorino', 'weight': u'195', 'generation': 1, 'hp': 61, 'attack': 72, 'defense': 57, 'sp_atk': 55, 'sp_def': 55, 'speed': 65, 'id': 33, 'types': ['poison']}
+{'name': 'Nidoking', 'weight': u'620', 'generation': 1, 'hp': 81, 'attack': 102, 'defense': 77, 'sp_atk': 85, 'sp_def': 75, 'speed': 85, 'id': 34, 'types': ['poison', 'ground']}
+{'name': 'Clefairy', 'weight': u'75', 'generation': 1, 'hp': 70, 'attack': 45, 'defense': 48, 'sp_atk': 60, 'sp_def': 65, 'speed': 35, 'id': 35, 'types': ['fairy']}
+{'name': 'Clefable', 'weight': u'400', 'generation': 1, 'hp': 95, 'attack': 70, 'defense': 73, 'sp_atk': 95, 'sp_def': 90, 'speed': 60, 'id': 36, 'types': ['fairy']}
+{'name': 'Vulpix', 'weight': u'99', 'generation': 1, 'hp': 38, 'attack': 41, 'defense': 40, 'sp_atk': 50, 'sp_def': 65, 'speed': 65, 'id': 37, 'types': ['fire']}
+{'name': 'Ninetales', 'weight': u'199', 'generation': 1, 'hp': 73, 'attack': 76, 'defense': 75, 'sp_atk': 81, 'sp_def': 100, 'speed': 100, 'id': 38, 'types': ['fire']}
+{'name': 'Jigglypuff', 'weight': u'55', 'generation': 1, 'hp': 115, 'attack': 45, 'defense': 20, 'sp_atk': 45, 'sp_def': 25, 'speed': 20, 'id': 39, 'types': ['normal', 'fairy']}
+{'name': 'Wigglytuff', 'weight': u'120', 'generation': 1, 'hp': 140, 'attack': 70, 'defense': 45, 'sp_atk': 85, 'sp_def': 50, 'speed': 45, 'id': 40, 'types': ['normal', 'fairy']}
+{'name': 'Zubat', 'weight': u'75', 'generation': 1, 'hp': 40, 'attack': 45, 'defense': 35, 'sp_atk': 30, 'sp_def': 40, 'speed': 55, 'id': 41, 'types': ['flying', 'poison']}
+{'name': 'Golbat', 'weight': u'550', 'generation': 1, 'hp': 75, 'attack': 80, 'defense': 70, 'sp_atk': 65, 'sp_def': 75, 'speed': 90, 'id': 42, 'types': ['flying', 'poison']}
+{'name': 'Oddish', 'weight': u'54', 'generation': 1, 'hp': 45, 'attack': 50, 'defense': 55, 'sp_atk': 75, 'sp_def': 65, 'speed': 30, 'id': 43, 'types': ['poison', 'grass']}
+{'name': 'Gloom', 'weight': u'86', 'generation': 1, 'hp': 60, 'attack': 65, 'defense': 70, 'sp_atk': 85, 'sp_def': 75, 'speed': 40, 'id': 44, 'types': ['poison', 'grass']}
+{'name': 'Vileplume', 'weight': u'186', 'generation': 1, 'hp': 75, 'attack': 80, 'defense': 85, 'sp_atk': 110, 'sp_def': 90, 'speed': 50, 'id': 45, 'types': ['poison', 'grass']}
+{'name': 'Paras', 'weight': u'54', 'generation': 1, 'hp': 35, 'attack': 70, 'defense': 55, 'sp_atk': 45, 'sp_def': 55, 'speed': 25, 'id': 46, 'types': ['bug', 'grass']}
+{'name': 'Parasect', 'weight': u'295', 'generation': 1, 'hp': 60, 'attack': 95, 'defense': 80, 'sp_atk': 60, 'sp_def': 80, 'speed': 30, 'id': 47, 'types': ['bug', 'grass']}
+{'name': 'Venonat', 'weight': u'300', 'generation': 1, 'hp': 60, 'attack': 55, 'defense': 50, 'sp_atk': 40, 'sp_def': 55, 'speed': 45, 'id': 48, 'types': ['poison', 'bug']}
+{'name': 'Venomoth', 'weight': u'125', 'generation': 1, 'hp': 70, 'attack': 65, 'defense': 60, 'sp_atk': 90, 'sp_def': 75, 'speed': 90, 'id': 49, 'types': ['poison', 'bug']}
+{'name': 'Diglett', 'weight': u'8', 'generation': 1, 'hp': 10, 'attack': 55, 'defense': 25, 'sp_atk': 35, 'sp_def': 45, 'speed': 95, 'id': 50, 'types': ['ground']}
+{'name': 'Dugtrio', 'weight': u'333', 'generation': 1, 'hp': 35, 'attack': 80, 'defense': 50, 'sp_atk': 50, 'sp_def': 70, 'speed': 120, 'id': 51, 'types': ['ground']}
+{'name': 'Meowth', 'weight': u'42', 'generation': 1, 'hp': 40, 'attack': 45, 'defense': 35, 'sp_atk': 40, 'sp_def': 40, 'speed': 90, 'id': 52, 'types': ['normal']}
+{'name': 'Persian', 'weight': u'320', 'generation': 1, 'hp': 65, 'attack': 70, 'defense': 60, 'sp_atk': 65, 'sp_def': 65, 'speed': 115, 'id': 53, 'types': ['normal']}
+{'name': 'Psyduck', 'weight': u'196', 'generation': 1, 'hp': 50, 'attack': 52, 'defense': 48, 'sp_atk': 65, 'sp_def': 50, 'speed': 55, 'id': 54, 'types': ['water']}
+{'name': 'Golduck', 'weight': u'766', 'generation': 1, 'hp': 80, 'attack': 82, 'defense': 78, 'sp_atk': 95, 'sp_def': 80, 'speed': 85, 'id': 55, 'types': ['water']}
+{'name': 'Mankey', 'weight': u'280', 'generation': 1, 'hp': 40, 'attack': 80, 'defense': 35, 'sp_atk': 35, 'sp_def': 45, 'speed': 70, 'id': 56, 'types': ['fighting']}
+{'name': 'Primeape', 'weight': u'320', 'generation': 1, 'hp': 65, 'attack': 105, 'defense': 60, 'sp_atk': 60, 'sp_def': 70, 'speed': 95, 'id': 57, 'types': ['fighting']}
+{'name': 'Growlithe', 'weight': u'190', 'generation': 1, 'hp': 55, 'attack': 70, 'defense': 45, 'sp_atk': 70, 'sp_def': 50, 'speed': 60, 'id': 58, 'types': ['fire']}
+{'name': 'Arcanine', 'weight': u'1550', 'generation': 1, 'hp': 90, 'attack': 110, 'defense': 80, 'sp_atk': 100, 'sp_def': 80, 'speed': 95, 'id': 59, 'types': ['fire']}
+{'name': 'Poliwag', 'weight': u'124', 'generation': 1, 'hp': 40, 'attack': 50, 'defense': 40, 'sp_atk': 40, 'sp_def': 40, 'speed': 90, 'id': 60, 'types': ['water']}
+{'name': 'Poliwhirl', 'weight': u'200', 'generation': 1, 'hp': 65, 'attack': 65, 'defense': 65, 'sp_atk': 50, 'sp_def': 50, 'speed': 90, 'id': 61, 'types': ['water']}
+{'name': 'Poliwrath', 'weight': u'540', 'generation': 1, 'hp': 90, 'attack': 95, 'defense': 95, 'sp_atk': 70, 'sp_def': 90, 'speed': 70, 'id': 62, 'types': ['fighting', 'water']}
+{'name': 'Abra', 'weight': u'195', 'generation': 1, 'hp': 25, 'attack': 20, 'defense': 15, 'sp_atk': 105, 'sp_def': 55, 'speed': 90, 'id': 63, 'types': ['psychic']}
+{'name': 'Kadabra', 'weight': u'565', 'generation': 1, 'hp': 40, 'attack': 35, 'defense': 30, 'sp_atk': 120, 'sp_def': 70, 'speed': 105, 'id': 64, 'types': ['psychic']}
+{'name': 'Alakazam', 'weight': u'480', 'generation': 1, 'hp': 55, 'attack': 50, 'defense': 45, 'sp_atk': 135, 'sp_def': 95, 'speed': 120, 'id': 65, 'types': ['psychic']}
+{'name': 'Machop', 'weight': u'195', 'generation': 1, 'hp': 70, 'attack': 80, 'defense': 50, 'sp_atk': 35, 'sp_def': 35, 'speed': 35, 'id': 66, 'types': ['fighting']}
+{'name': 'Machoke', 'weight': u'705', 'generation': 1, 'hp': 80, 'attack': 100, 'defense': 70, 'sp_atk': 50, 'sp_def': 60, 'speed': 45, 'id': 67, 'types': ['fighting']}
+{'name': 'Machamp', 'weight': u'1300', 'generation': 1, 'hp': 90, 'attack': 130, 'defense': 80, 'sp_atk': 65, 'sp_def': 85, 'speed': 55, 'id': 68, 'types': ['fighting']}
+{'name': 'Bellsprout', 'weight': u'40', 'generation': 1, 'hp': 50, 'attack': 75, 'defense': 35, 'sp_atk': 70, 'sp_def': 30, 'speed': 40, 'id': 69, 'types': ['poison', 'grass']}
+{'name': 'Weepinbell', 'weight': u'64', 'generation': 1, 'hp': 65, 'attack': 90, 'defense': 50, 'sp_atk': 85, 'sp_def': 45, 'speed': 55, 'id': 70, 'types': ['poison', 'grass']}
+{'name': 'Victreebel', 'weight': u'155', 'generation': 1, 'hp': 80, 'attack': 105, 'defense': 65, 'sp_atk': 100, 'sp_def': 70, 'speed': 70, 'id': 71, 'types': ['poison', 'grass']}
+{'name': 'Tentacool', 'weight': u'455', 'generation': 1, 'hp': 40, 'attack': 40, 'defense': 35, 'sp_atk': 50, 'sp_def': 100, 'speed': 70, 'id': 72, 'types': ['poison', 'water']}
+{'name': 'Tentacruel', 'weight': u'550', 'generation': 1, 'hp': 80, 'attack': 70, 'defense': 65, 'sp_atk': 80, 'sp_def': 120, 'speed': 100, 'id': 73, 'types': ['poison', 'water']}
+{'name': 'Geodude', 'weight': u'200', 'generation': 1, 'hp': 40, 'attack': 80, 'defense': 100, 'sp_atk': 30, 'sp_def': 30, 'speed': 20, 'id': 74, 'types': ['ground', 'rock']}
+{'name': 'Graveler', 'weight': u'1050', 'generation': 1, 'hp': 55, 'attack': 95, 'defense': 115, 'sp_atk': 45, 'sp_def': 45, 'speed': 35, 'id': 75, 'types': ['ground', 'rock']}
+{'name': 'Golem', 'weight': u'3000', 'generation': 1, 'hp': 80, 'attack': 120, 'defense': 130, 'sp_atk': 55, 'sp_def': 65, 'speed': 45, 'id': 76, 'types': ['ground', 'rock']}
+{'name': 'Ponyta', 'weight': u'300', 'generation': 1, 'hp': 50, 'attack': 85, 'defense': 55, 'sp_atk': 65, 'sp_def': 65, 'speed': 90, 'id': 77, 'types': ['fire']}
+{'name': 'Rapidash', 'weight': u'950', 'generation': 1, 'hp': 65, 'attack': 100, 'defense': 70, 'sp_atk': 80, 'sp_def': 80, 'speed': 105, 'id': 78, 'types': ['fire']}
+{'name': 'Slowpoke', 'weight': u'360', 'generation': 1, 'hp': 90, 'attack': 65, 'defense': 65, 'sp_atk': 40, 'sp_def': 40, 'speed': 15, 'id': 79, 'types': ['water', 'psychic']}
+{'name': 'Slowbro', 'weight': u'785', 'generation': 1, 'hp': 95, 'attack': 75, 'defense': 110, 'sp_atk': 100, 'sp_def': 80, 'speed': 30, 'id': 80, 'types': ['water', 'psychic']}
+{'name': 'Magnemite', 'weight': u'60', 'generation': 1, 'hp': 25, 'attack': 35, 'defense': 70, 'sp_atk': 95, 'sp_def': 55, 'speed': 45, 'id': 81, 'types': ['steel', 'electric']}
+{'name': 'Magneton', 'weight': u'600', 'generation': 1, 'hp': 50, 'attack': 60, 'defense': 95, 'sp_atk': 120, 'sp_def': 70, 'speed': 70, 'id': 82, 'types': ['steel', 'electric']}
+{'name': 'Farfetchd', 'weight': u'150', 'generation': 1, 'hp': 52, 'attack': 65, 'defense': 55, 'sp_atk': 58, 'sp_def': 62, 'speed': 60, 'id': 83, 'types': ['normal', 'flying']}
+{'name': 'Doduo', 'weight': u'392', 'generation': 1, 'hp': 35, 'attack': 85, 'defense': 45, 'sp_atk': 35, 'sp_def': 35, 'speed': 75, 'id': 84, 'types': ['normal', 'flying']}
+{'name': 'Dodrio', 'weight': u'852', 'generation': 1, 'hp': 60, 'attack': 110, 'defense': 70, 'sp_atk': 60, 'sp_def': 60, 'speed': 100, 'id': 85, 'types': ['normal', 'flying']}
+{'name': 'Seel', 'weight': u'900', 'generation': 1, 'hp': 65, 'attack': 45, 'defense': 55, 'sp_atk': 45, 'sp_def': 70, 'speed': 45, 'id': 86, 'types': ['water']}
+{'name': 'Dewgong', 'weight': u'1200', 'generation': 1, 'hp': 90, 'attack': 70, 'defense': 80, 'sp_atk': 70, 'sp_def': 95, 'speed': 70, 'id': 87, 'types': ['water', 'ice']}
+{'name': 'Grimer', 'weight': u'300', 'generation': 1, 'hp': 80, 'attack': 80, 'defense': 50, 'sp_atk': 40, 'sp_def': 50, 'speed': 25, 'id': 88, 'types': ['poison']}
+{'name': 'Muk', 'weight': u'300', 'generation': 1, 'hp': 105, 'attack': 105, 'defense': 75, 'sp_atk': 65, 'sp_def': 100, 'speed': 50, 'id': 89, 'types': ['poison']}
+{'name': 'Shellder', 'weight': u'40', 'generation': 1, 'hp': 30, 'attack': 65, 'defense': 100, 'sp_atk': 45, 'sp_def': 25, 'speed': 40, 'id': 90, 'types': ['water']}
+{'name': 'Cloyster', 'weight': u'1325', 'generation': 1, 'hp': 50, 'attack': 95, 'defense': 180, 'sp_atk': 85, 'sp_def': 45, 'speed': 70, 'id': 91, 'types': ['water', 'ice']}
+{'name': 'Gastly', 'weight': u'1', 'generation': 1, 'hp': 30, 'attack': 35, 'defense': 30, 'sp_atk': 100, 'sp_def': 35, 'speed': 80, 'id': 92, 'types': ['poison', 'ghost']}
+{'name': 'Haunter', 'weight': u'1', 'generation': 1, 'hp': 45, 'attack': 50, 'defense': 45, 'sp_atk': 115, 'sp_def': 55, 'speed': 95, 'id': 93, 'types': ['poison', 'ghost']}
+{'name': 'Gengar', 'weight': u'405', 'generation': 1, 'hp': 60, 'attack': 65, 'defense': 60, 'sp_atk': 130, 'sp_def': 75, 'speed': 110, 'id': 94, 'types': ['poison', 'ghost']}
+{'name': 'Onix', 'weight': u'2100', 'generation': 1, 'hp': 35, 'attack': 45, 'defense': 160, 'sp_atk': 30, 'sp_def': 45, 'speed': 70, 'id': 95, 'types': ['ground', 'rock']}
+{'name': 'Drowzee', 'weight': u'324', 'generation': 1, 'hp': 60, 'attack': 48, 'defense': 45, 'sp_atk': 43, 'sp_def': 90, 'speed': 42, 'id': 96, 'types': ['psychic']}
+{'name': 'Hypno', 'weight': u'756', 'generation': 1, 'hp': 85, 'attack': 73, 'defense': 70, 'sp_atk': 73, 'sp_def': 115, 'speed': 67, 'id': 97, 'types': ['psychic']}
+{'name': 'Krabby', 'weight': u'65', 'generation': 1, 'hp': 30, 'attack': 105, 'defense': 90, 'sp_atk': 25, 'sp_def': 25, 'speed': 50, 'id': 98, 'types': ['water']}
+{'name': 'Kingler', 'weight': u'600', 'generation': 1, 'hp': 55, 'attack': 130, 'defense': 115, 'sp_atk': 50, 'sp_def': 50, 'speed': 75, 'id': 99, 'types': ['water']}
+{'name': 'Voltorb', 'weight': u'104', 'generation': 1, 'hp': 40, 'attack': 30, 'defense': 50, 'sp_atk': 55, 'sp_def': 55, 'speed': 100, 'id': 100, 'types': ['electric']}
+{'name': 'Electrode', 'weight': u'666', 'generation': 1, 'hp': 60, 'attack': 50, 'defense': 70, 'sp_atk': 80, 'sp_def': 80, 'speed': 140, 'id': 101, 'types': ['electric']}
+{'name': 'Exeggcute', 'weight': u'25', 'generation': 1, 'hp': 60, 'attack': 40, 'defense': 80, 'sp_atk': 60, 'sp_def': 45, 'speed': 40, 'id': 102, 'types': ['grass', 'psychic']}
+{'name': 'Exeggutor', 'weight': u'1200', 'generation': 1, 'hp': 95, 'attack': 95, 'defense': 85, 'sp_atk': 125, 'sp_def': 65, 'speed': 55, 'id': 103, 'types': ['grass', 'psychic']}
+{'name': 'Cubone', 'weight': u'65', 'generation': 1, 'hp': 50, 'attack': 50, 'defense': 95, 'sp_atk': 40, 'sp_def': 50, 'speed': 35, 'id': 104, 'types': ['ground']}
+{'name': 'Marowak', 'weight': u'450', 'generation': 1, 'hp': 60, 'attack': 80, 'defense': 110, 'sp_atk': 50, 'sp_def': 80, 'speed': 45, 'id': 105, 'types': ['ground']}
+{'name': 'Hitmonlee', 'weight': u'498', 'generation': 1, 'hp': 50, 'attack': 120, 'defense': 53, 'sp_atk': 35, 'sp_def': 110, 'speed': 87, 'id': 106, 'types': ['fighting']}
+{'name': 'Hitmonchan', 'weight': u'502', 'generation': 1, 'hp': 50, 'attack': 105, 'defense': 79, 'sp_atk': 35, 'sp_def': 110, 'speed': 76, 'id': 107, 'types': ['fighting']}
+{'name': 'Lickitung', 'weight': u'655', 'generation': 1, 'hp': 90, 'attack': 55, 'defense': 75, 'sp_atk': 60, 'sp_def': 75, 'speed': 30, 'id': 108, 'types': ['normal']}
+{'name': 'Koffing', 'weight': u'10', 'generation': 1, 'hp': 40, 'attack': 65, 'defense': 95, 'sp_atk': 60, 'sp_def': 45, 'speed': 35, 'id': 109, 'types': ['poison']}
+{'name': 'Weezing', 'weight': u'95', 'generation': 1, 'hp': 65, 'attack': 90, 'defense': 120, 'sp_atk': 85, 'sp_def': 70, 'speed': 60, 'id': 110, 'types': ['poison']}
+{'name': 'Rhyhorn', 'weight': u'1150', 'generation': 1, 'hp': 80, 'attack': 85, 'defense': 95, 'sp_atk': 30, 'sp_def': 30, 'speed': 25, 'id': 111, 'types': ['ground', 'rock']}
+{'name': 'Rhydon', 'weight': u'1200', 'generation': 1, 'hp': 105, 'attack': 130, 'defense': 120, 'sp_atk': 45, 'sp_def': 45, 'speed': 40, 'id': 112, 'types': ['ground', 'rock']}
+{'name': 'Chansey', 'weight': u'346', 'generation': 1, 'hp': 250, 'attack': 5, 'defense': 5, 'sp_atk': 35, 'sp_def': 105, 'speed': 50, 'id': 113, 'types': ['normal']}
+{'name': 'Tangela', 'weight': u'350', 'generation': 1, 'hp': 65, 'attack': 55, 'defense': 115, 'sp_atk': 100, 'sp_def': 40, 'speed': 60, 'id': 114, 'types': ['grass']}
+{'name': 'Kangaskhan', 'weight': u'800', 'generation': 1, 'hp': 105, 'attack': 95, 'defense': 80, 'sp_atk': 40, 'sp_def': 80, 'speed': 90, 'id': 115, 'types': ['normal']}
+{'name': 'Horsea', 'weight': u'80', 'generation': 1, 'hp': 30, 'attack': 40, 'defense': 70, 'sp_atk': 70, 'sp_def': 25, 'speed': 60, 'id': 116, 'types': ['water']}
+{'name': 'Seadra', 'weight': u'250', 'generation': 1, 'hp': 55, 'attack': 65, 'defense': 95, 'sp_atk': 95, 'sp_def': 45, 'speed': 85, 'id': 117, 'types': ['water']}
+{'name': 'Goldeen', 'weight': u'150', 'generation': 1, 'hp': 45, 'attack': 67, 'defense': 60, 'sp_atk': 35, 'sp_def': 50, 'speed': 63, 'id': 118, 'types': ['water']}
+{'name': 'Seaking', 'weight': u'390', 'generation': 1, 'hp': 80, 'attack': 92, 'defense': 65, 'sp_atk': 65, 'sp_def': 80, 'speed': 68, 'id': 119, 'types': ['water']}
+{'name': 'Staryu', 'weight': u'345', 'generation': 1, 'hp': 30, 'attack': 45, 'defense': 55, 'sp_atk': 70, 'sp_def': 55, 'speed': 85, 'id': 120, 'types': ['water']}
+{'name': 'Starmie', 'weight': u'800', 'generation': 1, 'hp': 60, 'attack': 75, 'defense': 85, 'sp_atk': 100, 'sp_def': 85, 'speed': 115, 'id': 121, 'types': ['water', 'psychic']}
+{'name': 'Mr-mime', 'weight': u'545', 'generation': 1, 'hp': 40, 'attack': 45, 'defense': 65, 'sp_atk': 100, 'sp_def': 120, 'speed': 90, 'id': 122, 'types': ['fairy', 'psychic']}
+{'name': 'Scyther', 'weight': u'560', 'generation': 1, 'hp': 70, 'attack': 110, 'defense': 80, 'sp_atk': 55, 'sp_def': 80, 'speed': 105, 'id': 123, 'types': ['flying', 'bug']}
+{'name': 'Jynx', 'weight': u'406', 'generation': 1, 'hp': 65, 'attack': 50, 'defense': 35, 'sp_atk': 115, 'sp_def': 95, 'speed': 95, 'id': 124, 'types': ['ice', 'psychic']}
+{'name': 'Electabuzz', 'weight': u'300', 'generation': 1, 'hp': 65, 'attack': 83, 'defense': 57, 'sp_atk': 95, 'sp_def': 85, 'speed': 105, 'id': 125, 'types': ['electric']}
+{'name': 'Magmar', 'weight': u'445', 'generation': 1, 'hp': 65, 'attack': 95, 'defense': 57, 'sp_atk': 100, 'sp_def': 85, 'speed': 93, 'id': 126, 'types': ['fire']}
+{'name': 'Pinsir', 'weight': u'550', 'generation': 1, 'hp': 65, 'attack': 125, 'defense': 100, 'sp_atk': 55, 'sp_def': 70, 'speed': 85, 'id': 127, 'types': ['bug']}
+{'name': 'Tauros', 'weight': u'884', 'generation': 1, 'hp': 75, 'attack': 100, 'defense': 95, 'sp_atk': 40, 'sp_def': 70, 'speed': 110, 'id': 128, 'types': ['normal']}
+{'name': 'Magikarp', 'weight': u'100', 'generation': 1, 'hp': 20, 'attack': 10, 'defense': 55, 'sp_atk': 15, 'sp_def': 20, 'speed': 80, 'id': 129, 'types': ['water']}
+{'name': 'Gyarados', 'weight': u'2350', 'generation': 1, 'hp': 95, 'attack': 125, 'defense': 79, 'sp_atk': 60, 'sp_def': 100, 'speed': 81, 'id': 130, 'types': ['flying', 'water']}
+{'name': 'Lapras', 'weight': u'2200', 'generation': 1, 'hp': 130, 'attack': 85, 'defense': 80, 'sp_atk': 85, 'sp_def': 95, 'speed': 60, 'id': 131, 'types': ['water', 'ice']}
+{'name': 'Ditto', 'weight': u'40', 'generation': 1, 'hp': 48, 'attack': 48, 'defense': 48, 'sp_atk': 48, 'sp_def': 48, 'speed': 48, 'id': 132, 'types': ['normal']}
+{'name': 'Eevee', 'weight': u'65', 'generation': 1, 'hp': 55, 'attack': 55, 'defense': 50, 'sp_atk': 45, 'sp_def': 65, 'speed': 55, 'id': 133, 'types': ['normal']}
+{'name': 'Vaporeon', 'weight': u'290', 'generation': 1, 'hp': 130, 'attack': 65, 'defense': 60, 'sp_atk': 110, 'sp_def': 95, 'speed': 65, 'id': 134, 'types': ['water']}
+{'name': 'Jolteon', 'weight': u'245', 'generation': 1, 'hp': 65, 'attack': 65, 'defense': 60, 'sp_atk': 110, 'sp_def': 95, 'speed': 130, 'id': 135, 'types': ['electric']}
+{'name': 'Flareon', 'weight': u'250', 'generation': 1, 'hp': 65, 'attack': 130, 'defense': 60, 'sp_atk': 95, 'sp_def': 110, 'speed': 65, 'id': 136, 'types': ['fire']}
+{'name': 'Porygon', 'weight': u'365', 'generation': 1, 'hp': 65, 'attack': 60, 'defense': 70, 'sp_atk': 85, 'sp_def': 75, 'speed': 40, 'id': 137, 'types': ['normal']}
+{'name': 'Omanyte', 'weight': u'75', 'generation': 1, 'hp': 35, 'attack': 40, 'defense': 100, 'sp_atk': 90, 'sp_def': 55, 'speed': 35, 'id': 138, 'types': ['rock', 'water']}
+{'name': 'Omastar', 'weight': u'350', 'generation': 1, 'hp': 70, 'attack': 60, 'defense': 125, 'sp_atk': 115, 'sp_def': 70, 'speed': 55, 'id': 139, 'types': ['rock', 'water']}
+{'name': 'Kabuto', 'weight': u'115', 'generation': 1, 'hp': 30, 'attack': 80, 'defense': 90, 'sp_atk': 55, 'sp_def': 45, 'speed': 55, 'id': 140, 'types': ['rock', 'water']}
+{'name': 'Kabutops', 'weight': u'405', 'generation': 1, 'hp': 60, 'attack': 115, 'defense': 105, 'sp_atk': 65, 'sp_def': 70, 'speed': 80, 'id': 141, 'types': ['rock', 'water']}
+{'name': 'Aerodactyl', 'weight': u'590', 'generation': 1, 'hp': 80, 'attack': 105, 'defense': 65, 'sp_atk': 60, 'sp_def': 75, 'speed': 130, 'id': 142, 'types': ['flying', 'rock']}
+{'name': 'Snorlax', 'weight': u'4600', 'generation': 1, 'hp': 160, 'attack': 110, 'defense': 65, 'sp_atk': 65, 'sp_def': 110, 'speed': 30, 'id': 143, 'types': ['normal']}
+{'name': 'Articuno', 'weight': u'554', 'generation': 1, 'hp': 90, 'attack': 85, 'defense': 100, 'sp_atk': 95, 'sp_def': 125, 'speed': 85, 'id': 144, 'types': ['flying', 'ice']}
+{'name': 'Zapdos', 'weight': u'526', 'generation': 1, 'hp': 90, 'attack': 90, 'defense': 85, 'sp_atk': 125, 'sp_def': 90, 'speed': 100, 'id': 145, 'types': ['flying', 'electric']}
+{'name': 'Moltres', 'weight': u'600', 'generation': 1, 'hp': 90, 'attack': 100, 'defense': 90, 'sp_atk': 125, 'sp_def': 85, 'speed': 90, 'id': 146, 'types': ['flying', 'fire']}
+{'name': 'Dratini', 'weight': u'33', 'generation': 1, 'hp': 41, 'attack': 64, 'defense': 45, 'sp_atk': 50, 'sp_def': 50, 'speed': 50, 'id': 147, 'types': ['dragon']}
+{'name': 'Dragonair', 'weight': u'165', 'generation': 1, 'hp': 61, 'attack': 84, 'defense': 65, 'sp_atk': 70, 'sp_def': 70, 'speed': 70, 'id': 148, 'types': ['dragon']}
+{'name': 'Dragonite', 'weight': u'2100', 'generation': 1, 'hp': 91, 'attack': 134, 'defense': 95, 'sp_atk': 100, 'sp_def': 100, 'speed': 80, 'id': 149, 'types': ['flying', 'dragon']}
+{'name': 'Mewtwo', 'weight': u'1220', 'generation': 1, 'hp': 106, 'attack': 110, 'defense': 90, 'sp_atk': 154, 'sp_def': 90, 'speed': 130, 'id': 150, 'types': ['psychic']}
+{'name': 'Mew', 'weight': u'40', 'generation': 1, 'hp': 100, 'attack': 100, 'defense': 100, 'sp_atk': 100, 'sp_def': 100, 'speed': 100, 'id': 151, 'types': ['psychic']}
+{'name': 'Chikorita', 'weight': u'64', 'generation': 2, 'hp': 45, 'attack': 49, 'defense': 65, 'sp_atk': 49, 'sp_def': 65, 'speed': 45, 'id': 152, 'types': ['grass']}
+{'name': 'Bayleef', 'weight': u'158', 'generation': 2, 'hp': 60, 'attack': 62, 'defense': 80, 'sp_atk': 63, 'sp_def': 80, 'speed': 60, 'id': 153, 'types': ['grass']}
+{'name': 'Meganium', 'weight': u'1005', 'generation': 2, 'hp': 80, 'attack': 82, 'defense': 100, 'sp_atk': 83, 'sp_def': 100, 'speed': 80, 'id': 154, 'types': ['grass']}
+{'name': 'Cyndaquil', 'weight': u'79', 'generation': 2, 'hp': 39, 'attack': 52, 'defense': 43, 'sp_atk': 60, 'sp_def': 50, 'speed': 65, 'id': 155, 'types': ['fire']}
+{'name': 'Quilava', 'weight': u'190', 'generation': 2, 'hp': 58, 'attack': 64, 'defense': 58, 'sp_atk': 80, 'sp_def': 65, 'speed': 80, 'id': 156, 'types': ['fire']}
+{'name': 'Typhlosion', 'weight': u'795', 'generation': 2, 'hp': 78, 'attack': 84, 'defense': 78, 'sp_atk': 109, 'sp_def': 85, 'speed': 100, 'id': 157, 'types': ['fire']}
+{'name': 'Totodile', 'weight': u'95', 'generation': 2, 'hp': 50, 'attack': 65, 'defense': 64, 'sp_atk': 44, 'sp_def': 48, 'speed': 43, 'id': 158, 'types': ['water']}
+{'name': 'Croconaw', 'weight': u'250', 'generation': 2, 'hp': 65, 'attack': 80, 'defense': 80, 'sp_atk': 59, 'sp_def': 63, 'speed': 58, 'id': 159, 'types': ['water']}
+{'name': 'Feraligatr', 'weight': u'888', 'generation': 2, 'hp': 85, 'attack': 105, 'defense': 100, 'sp_atk': 79, 'sp_def': 83, 'speed': 78, 'id': 160, 'types': ['water']}
+{'name': 'Sentret', 'weight': u'60', 'generation': 2, 'hp': 35, 'attack': 46, 'defense': 34, 'sp_atk': 35, 'sp_def': 45, 'speed': 20, 'id': 161, 'types': ['normal']}
+{'name': 'Furret', 'weight': u'325', 'generation': 2, 'hp': 85, 'attack': 76, 'defense': 64, 'sp_atk': 45, 'sp_def': 55, 'speed': 90, 'id': 162, 'types': ['normal']}
+{'name': 'Hoothoot', 'weight': u'212', 'generation': 2, 'hp': 60, 'attack': 30, 'defense': 30, 'sp_atk': 36, 'sp_def': 56, 'speed': 50, 'id': 163, 'types': ['normal', 'flying']}
+{'name': 'Noctowl', 'weight': u'408', 'generation': 2, 'hp': 100, 'attack': 50, 'defense': 50, 'sp_atk': 76, 'sp_def': 96, 'speed': 70, 'id': 164, 'types': ['normal', 'flying']}
+{'name': 'Ledyba', 'weight': u'108', 'generation': 2, 'hp': 40, 'attack': 20, 'defense': 30, 'sp_atk': 40, 'sp_def': 80, 'speed': 55, 'id': 165, 'types': ['flying', 'bug']}
+{'name': 'Ledian', 'weight': u'356', 'generation': 2, 'hp': 55, 'attack': 35, 'defense': 50, 'sp_atk': 55, 'sp_def': 110, 'speed': 85, 'id': 166, 'types': ['flying', 'bug']}
+{'name': 'Spinarak', 'weight': u'85', 'generation': 2, 'hp': 40, 'attack': 60, 'defense': 40, 'sp_atk': 40, 'sp_def': 40, 'speed': 30, 'id': 167, 'types': ['poison', 'bug']}
+{'name': 'Ariados', 'weight': u'335', 'generation': 2, 'hp': 70, 'attack': 90, 'defense': 70, 'sp_atk': 60, 'sp_def': 60, 'speed': 40, 'id': 168, 'types': ['poison', 'bug']}
+{'name': 'Crobat', 'weight': u'750', 'generation': 2, 'hp': 85, 'attack': 90, 'defense': 80, 'sp_atk': 70, 'sp_def': 80, 'speed': 130, 'id': 169, 'types': ['flying', 'poison']}
+{'name': 'Chinchou', 'weight': u'120', 'generation': 2, 'hp': 75, 'attack': 38, 'defense': 38, 'sp_atk': 56, 'sp_def': 56, 'speed': 67, 'id': 170, 'types': ['water', 'electric']}
+{'name': 'Lanturn', 'weight': u'225', 'generation': 2, 'hp': 125, 'attack': 58, 'defense': 58, 'sp_atk': 76, 'sp_def': 76, 'speed': 67, 'id': 171, 'types': ['water', 'electric']}
+{'name': 'Pichu', 'weight': u'20', 'generation': 2, 'hp': 20, 'attack': 40, 'defense': 15, 'sp_atk': 35, 'sp_def': 35, 'speed': 60, 'id': 172, 'types': ['electric']}
+{'name': 'Cleffa', 'weight': u'30', 'generation': 2, 'hp': 50, 'attack': 25, 'defense': 28, 'sp_atk': 45, 'sp_def': 55, 'speed': 15, 'id': 173, 'types': ['fairy']}
+{'name': 'Igglybuff', 'weight': u'10', 'generation': 2, 'hp': 90, 'attack': 30, 'defense': 15, 'sp_atk': 40, 'sp_def': 20, 'speed': 15, 'id': 174, 'types': ['normal', 'fairy']}
+{'name': 'Togepi', 'weight': u'15', 'generation': 2, 'hp': 35, 'attack': 20, 'defense': 65, 'sp_atk': 40, 'sp_def': 65, 'speed': 20, 'id': 175, 'types': ['fairy']}
+{'name': 'Togetic', 'weight': u'32', 'generation': 2, 'hp': 55, 'attack': 40, 'defense': 85, 'sp_atk': 80, 'sp_def': 105, 'speed': 40, 'id': 176, 'types': ['flying', 'fairy']}
+{'name': 'Natu', 'weight': u'20', 'generation': 2, 'hp': 40, 'attack': 50, 'defense': 45, 'sp_atk': 70, 'sp_def': 45, 'speed': 70, 'id': 177, 'types': ['flying', 'psychic']}
+{'name': 'Xatu', 'weight': u'150', 'generation': 2, 'hp': 65, 'attack': 75, 'defense': 70, 'sp_atk': 95, 'sp_def': 70, 'speed': 95, 'id': 178, 'types': ['flying', 'psychic']}
+{'name': 'Mareep', 'weight': u'78', 'generation': 2, 'hp': 55, 'attack': 40, 'defense': 40, 'sp_atk': 65, 'sp_def': 45, 'speed': 35, 'id': 179, 'types': ['electric']}
+{'name': 'Flaaffy', 'weight': u'133', 'generation': 2, 'hp': 70, 'attack': 55, 'defense': 55, 'sp_atk': 80, 'sp_def': 60, 'speed': 45, 'id': 180, 'types': ['electric']}
+{'name': 'Ampharos', 'weight': u'615', 'generation': 2, 'hp': 90, 'attack': 75, 'defense': 85, 'sp_atk': 115, 'sp_def': 90, 'speed': 55, 'id': 181, 'types': ['electric']}
+{'name': 'Bellossom', 'weight': u'58', 'generation': 2, 'hp': 75, 'attack': 80, 'defense': 95, 'sp_atk': 90, 'sp_def': 100, 'speed': 50, 'id': 182, 'types': ['grass']}
+{'name': 'Marill', 'weight': u'85', 'generation': 2, 'hp': 70, 'attack': 20, 'defense': 50, 'sp_atk': 20, 'sp_def': 50, 'speed': 40, 'id': 183, 'types': ['water', 'fairy']}
+{'name': 'Azumarill', 'weight': u'285', 'generation': 2, 'hp': 100, 'attack': 50, 'defense': 80, 'sp_atk': 60, 'sp_def': 80, 'speed': 50, 'id': 184, 'types': ['water', 'fairy']}
+{'name': 'Sudowoodo', 'weight': u'380', 'generation': 2, 'hp': 70, 'attack': 100, 'defense': 115, 'sp_atk': 30, 'sp_def': 65, 'speed': 30, 'id': 185, 'types': ['rock']}
+{'name': 'Politoed', 'weight': u'339', 'generation': 2, 'hp': 90, 'attack': 75, 'defense': 75, 'sp_atk': 90, 'sp_def': 100, 'speed': 70, 'id': 186, 'types': ['water']}
+{'name': 'Hoppip', 'weight': u'5', 'generation': 2, 'hp': 35, 'attack': 35, 'defense': 40, 'sp_atk': 35, 'sp_def': 55, 'speed': 50, 'id': 187, 'types': ['flying', 'grass']}
+{'name': 'Skiploom', 'weight': u'10', 'generation': 2, 'hp': 55, 'attack': 45, 'defense': 50, 'sp_atk': 45, 'sp_def': 65, 'speed': 80, 'id': 188, 'types': ['flying', 'grass']}
+{'name': 'Jumpluff', 'weight': u'30', 'generation': 2, 'hp': 75, 'attack': 55, 'defense': 70, 'sp_atk': 55, 'sp_def': 95, 'speed': 110, 'id': 189, 'types': ['flying', 'grass']}
+{'name': 'Aipom', 'weight': u'115', 'generation': 2, 'hp': 55, 'attack': 70, 'defense': 55, 'sp_atk': 40, 'sp_def': 55, 'speed': 85, 'id': 190, 'types': ['normal']}
+{'name': 'Sunkern', 'weight': u'18', 'generation': 2, 'hp': 30, 'attack': 30, 'defense': 30, 'sp_atk': 30, 'sp_def': 30, 'speed': 30, 'id': 191, 'types': ['grass']}
+{'name': 'Sunflora', 'weight': u'85', 'generation': 2, 'hp': 75, 'attack': 75, 'defense': 55, 'sp_atk': 105, 'sp_def': 85, 'speed': 30, 'id': 192, 'types': ['grass']}
+{'name': 'Yanma', 'weight': u'380', 'generation': 2, 'hp': 65, 'attack': 65, 'defense': 45, 'sp_atk': 75, 'sp_def': 45, 'speed': 95, 'id': 193, 'types': ['flying', 'bug']}
+{'name': 'Wooper', 'weight': u'85', 'generation': 2, 'hp': 55, 'attack': 45, 'defense': 45, 'sp_atk': 25, 'sp_def': 25, 'speed': 15, 'id': 194, 'types': ['ground', 'water']}
+{'name': 'Quagsire', 'weight': u'750', 'generation': 2, 'hp': 95, 'attack': 85, 'defense': 85, 'sp_atk': 65, 'sp_def': 65, 'speed': 35, 'id': 195, 'types': ['ground', 'water']}
+{'name': 'Espeon', 'weight': u'265', 'generation': 2, 'hp': 65, 'attack': 65, 'defense': 60, 'sp_atk': 130, 'sp_def': 95, 'speed': 110, 'id': 196, 'types': ['psychic']}
+{'name': 'Umbreon', 'weight': u'270', 'generation': 2, 'hp': 95, 'attack': 65, 'defense': 110, 'sp_atk': 60, 'sp_def': 130, 'speed': 65, 'id': 197, 'types': ['dark']}
+{'name': 'Murkrow', 'weight': u'21', 'generation': 2, 'hp': 60, 'attack': 85, 'defense': 42, 'sp_atk': 85, 'sp_def': 42, 'speed': 91, 'id': 198, 'types': ['flying', 'dark']}
+{'name': 'Slowking', 'weight': u'795', 'generation': 2, 'hp': 95, 'attack': 75, 'defense': 80, 'sp_atk': 100, 'sp_def': 110, 'speed': 30, 'id': 199, 'types': ['water', 'psychic']}
+{'name': 'Misdreavus', 'weight': u'10', 'generation': 2, 'hp': 60, 'attack': 60, 'defense': 60, 'sp_atk': 85, 'sp_def': 85, 'speed': 85, 'id': 200, 'types': ['ghost']}
+{'name': 'Unown', 'weight': u'50', 'generation': 2, 'hp': 48, 'attack': 72, 'defense': 48, 'sp_atk': 72, 'sp_def': 48, 'speed': 48, 'id': 201, 'types': ['psychic']}
+{'name': 'Wobbuffet', 'weight': u'285', 'generation': 2, 'hp': 190, 'attack': 33, 'defense': 58, 'sp_atk': 33, 'sp_def': 58, 'speed': 33, 'id': 202, 'types': ['psychic']}
+{'name': 'Girafarig', 'weight': u'415', 'generation': 2, 'hp': 70, 'attack': 80, 'defense': 65, 'sp_atk': 90, 'sp_def': 65, 'speed': 85, 'id': 203, 'types': ['normal', 'psychic']}
+{'name': 'Pineco', 'weight': u'72', 'generation': 2, 'hp': 50, 'attack': 65, 'defense': 90, 'sp_atk': 35, 'sp_def': 35, 'speed': 15, 'id': 204, 'types': ['bug']}
+{'name': 'Forretress', 'weight': u'1258', 'generation': 2, 'hp': 75, 'attack': 90, 'defense': 140, 'sp_atk': 60, 'sp_def': 60, 'speed': 40, 'id': 205, 'types': ['bug', 'steel']}
+{'name': 'Dunsparce', 'weight': u'140', 'generation': 2, 'hp': 100, 'attack': 70, 'defense': 70, 'sp_atk': 65, 'sp_def': 65, 'speed': 45, 'id': 206, 'types': ['normal']}
+{'name': 'Gligar', 'weight': u'648', 'generation': 2, 'hp': 65, 'attack': 75, 'defense': 105, 'sp_atk': 35, 'sp_def': 65, 'speed': 85, 'id': 207, 'types': ['flying', 'ground']}
+{'name': 'Steelix', 'weight': u'4000', 'generation': 2, 'hp': 75, 'attack': 85, 'defense': 200, 'sp_atk': 55, 'sp_def': 65, 'speed': 30, 'id': 208, 'types': ['ground', 'steel']}
+{'name': 'Snubbull', 'weight': u'78', 'generation': 2, 'hp': 60, 'attack': 80, 'defense': 50, 'sp_atk': 40, 'sp_def': 40, 'speed': 30, 'id': 209, 'types': ['fairy']}
+{'name': 'Granbull', 'weight': u'487', 'generation': 2, 'hp': 90, 'attack': 120, 'defense': 75, 'sp_atk': 60, 'sp_def': 60, 'speed': 45, 'id': 210, 'types': ['fairy']}
+{'name': 'Qwilfish', 'weight': u'39', 'generation': 2, 'hp': 65, 'attack': 95, 'defense': 75, 'sp_atk': 55, 'sp_def': 55, 'speed': 85, 'id': 211, 'types': ['poison', 'water']}
+{'name': 'Scizor', 'weight': u'1180', 'generation': 2, 'hp': 70, 'attack': 130, 'defense': 100, 'sp_atk': 55, 'sp_def': 80, 'speed': 65, 'id': 212, 'types': ['bug', 'steel']}
+{'name': 'Shuckle', 'weight': u'205', 'generation': 2, 'hp': 20, 'attack': 10, 'defense': 230, 'sp_atk': 10, 'sp_def': 230, 'speed': 5, 'id': 213, 'types': ['rock', 'bug']}
+{'name': 'Heracross', 'weight': u'540', 'generation': 2, 'hp': 80, 'attack': 125, 'defense': 75, 'sp_atk': 40, 'sp_def': 95, 'speed': 85, 'id': 214, 'types': ['fighting', 'bug']}
+{'name': 'Sneasel', 'weight': u'280', 'generation': 2, 'hp': 55, 'attack': 95, 'defense': 55, 'sp_atk': 35, 'sp_def': 75, 'speed': 115, 'id': 215, 'types': ['ice', 'dark']}
+{'name': 'Teddiursa', 'weight': u'88', 'generation': 2, 'hp': 60, 'attack': 80, 'defense': 50, 'sp_atk': 50, 'sp_def': 50, 'speed': 40, 'id': 216, 'types': ['normal']}
+{'name': 'Ursaring', 'weight': u'1258', 'generation': 2, 'hp': 90, 'attack': 130, 'defense': 75, 'sp_atk': 75, 'sp_def': 75, 'speed': 55, 'id': 217, 'types': ['normal']}
+{'name': 'Slugma', 'weight': u'350', 'generation': 2, 'hp': 40, 'attack': 40, 'defense': 40, 'sp_atk': 70, 'sp_def': 40, 'speed': 20, 'id': 218, 'types': ['fire']}
+{'name': 'Magcargo', 'weight': u'550', 'generation': 2, 'hp': 50, 'attack': 50, 'defense': 120, 'sp_atk': 80, 'sp_def': 80, 'speed': 30, 'id': 219, 'types': ['rock', 'fire']}
+{'name': 'Swinub', 'weight': u'65', 'generation': 2, 'hp': 50, 'attack': 50, 'defense': 40, 'sp_atk': 30, 'sp_def': 30, 'speed': 50, 'id': 220, 'types': ['ground', 'ice']}
+{'name': 'Piloswine', 'weight': u'558', 'generation': 2, 'hp': 100, 'attack': 100, 'defense': 80, 'sp_atk': 60, 'sp_def': 60, 'speed': 50, 'id': 221, 'types': ['ground', 'ice']}
+{'name': 'Corsola', 'weight': u'50', 'generation': 2, 'hp': 55, 'attack': 55, 'defense': 85, 'sp_atk': 65, 'sp_def': 85, 'speed': 35, 'id': 222, 'types': ['rock', 'water']}
+{'name': 'Remoraid', 'weight': u'120', 'generation': 2, 'hp': 35, 'attack': 65, 'defense': 35, 'sp_atk': 65, 'sp_def': 35, 'speed': 65, 'id': 223, 'types': ['water']}
+{'name': 'Octillery', 'weight': u'285', 'generation': 2, 'hp': 75, 'attack': 105, 'defense': 75, 'sp_atk': 105, 'sp_def': 75, 'speed': 45, 'id': 224, 'types': ['water']}
+{'name': 'Delibird', 'weight': u'160', 'generation': 2, 'hp': 45, 'attack': 55, 'defense': 45, 'sp_atk': 65, 'sp_def': 45, 'speed': 75, 'id': 225, 'types': ['flying', 'ice']}
+{'name': 'Mantine', 'weight': u'2200', 'generation': 2, 'hp': 65, 'attack': 40, 'defense': 70, 'sp_atk': 80, 'sp_def': 140, 'speed': 70, 'id': 226, 'types': ['flying', 'water']}
+{'name': 'Skarmory', 'weight': u'505', 'generation': 2, 'hp': 65, 'attack': 80, 'defense': 140, 'sp_atk': 40, 'sp_def': 70, 'speed': 70, 'id': 227, 'types': ['flying', 'steel']}
+{'name': 'Houndour', 'weight': u'108', 'generation': 2, 'hp': 45, 'attack': 60, 'defense': 30, 'sp_atk': 80, 'sp_def': 50, 'speed': 65, 'id': 228, 'types': ['fire', 'dark']}
+{'name': 'Houndoom', 'weight': u'350', 'generation': 2, 'hp': 75, 'attack': 90, 'defense': 50, 'sp_atk': 110, 'sp_def': 80, 'speed': 95, 'id': 229, 'types': ['fire', 'dark']}
+{'name': 'Kingdra', 'weight': u'1520', 'generation': 2, 'hp': 75, 'attack': 95, 'defense': 95, 'sp_atk': 95, 'sp_def': 95, 'speed': 85, 'id': 230, 'types': ['water', 'dragon']}
+{'name': 'Phanpy', 'weight': u'335', 'generation': 2, 'hp': 90, 'attack': 60, 'defense': 60, 'sp_atk': 40, 'sp_def': 40, 'speed': 40, 'id': 231, 'types': ['ground']}
+{'name': 'Donphan', 'weight': u'1200', 'generation': 2, 'hp': 90, 'attack': 120, 'defense': 120, 'sp_atk': 60, 'sp_def': 60, 'speed': 50, 'id': 232, 'types': ['ground']}
+{'name': 'Porygon2', 'weight': u'325', 'generation': 2, 'hp': 85, 'attack': 80, 'defense': 90, 'sp_atk': 105, 'sp_def': 95, 'speed': 60, 'id': 233, 'types': ['normal']}
+{'name': 'Stantler', 'weight': u'712', 'generation': 2, 'hp': 73, 'attack': 95, 'defense': 62, 'sp_atk': 85, 'sp_def': 65, 'speed': 85, 'id': 234, 'types': ['normal']}
+{'name': 'Smeargle', 'weight': u'580', 'generation': 2, 'hp': 55, 'attack': 20, 'defense': 35, 'sp_atk': 20, 'sp_def': 45, 'speed': 75, 'id': 235, 'types': ['normal']}
+{'name': 'Tyrogue', 'weight': u'210', 'generation': 2, 'hp': 35, 'attack': 35, 'defense': 35, 'sp_atk': 35, 'sp_def': 35, 'speed': 35, 'id': 236, 'types': ['fighting']}
+{'name': 'Hitmontop', 'weight': u'480', 'generation': 2, 'hp': 50, 'attack': 95, 'defense': 95, 'sp_atk': 35, 'sp_def': 110, 'speed': 70, 'id': 237, 'types': ['fighting']}
+{'name': 'Smoochum', 'weight': u'60', 'generation': 2, 'hp': 45, 'attack': 30, 'defense': 15, 'sp_atk': 85, 'sp_def': 65, 'speed': 65, 'id': 238, 'types': ['ice', 'psychic']}
+{'name': 'Elekid', 'weight': u'235', 'generation': 2, 'hp': 45, 'attack': 63, 'defense': 37, 'sp_atk': 65, 'sp_def': 55, 'speed': 95, 'id': 239, 'types': ['electric']}
+{'name': 'Magby', 'weight': u'214', 'generation': 2, 'hp': 45, 'attack': 75, 'defense': 37, 'sp_atk': 70, 'sp_def': 55, 'speed': 83, 'id': 240, 'types': ['fire']}
+{'name': 'Miltank', 'weight': u'755', 'generation': 2, 'hp': 95, 'attack': 80, 'defense': 105, 'sp_atk': 40, 'sp_def': 70, 'speed': 100, 'id': 241, 'types': ['normal']}
+{'name': 'Blissey', 'weight': u'468', 'generation': 2, 'hp': 255, 'attack': 10, 'defense': 10, 'sp_atk': 75, 'sp_def': 135, 'speed': 55, 'id': 242, 'types': ['normal']}
+{'name': 'Raikou', 'weight': u'1780', 'generation': 2, 'hp': 90, 'attack': 85, 'defense': 75, 'sp_atk': 115, 'sp_def': 100, 'speed': 115, 'id': 243, 'types': ['electric']}
+{'name': 'Entei', 'weight': u'1980', 'generation': 2, 'hp': 115, 'attack': 115, 'defense': 85, 'sp_atk': 90, 'sp_def': 75, 'speed': 100, 'id': 244, 'types': ['fire']}
+{'name': 'Suicune', 'weight': u'1870', 'generation': 2, 'hp': 100, 'attack': 75, 'defense': 115, 'sp_atk': 90, 'sp_def': 115, 'speed': 85, 'id': 245, 'types': ['water']}
+{'name': 'Larvitar', 'weight': u'720', 'generation': 2, 'hp': 50, 'attack': 64, 'defense': 50, 'sp_atk': 45, 'sp_def': 50, 'speed': 41, 'id': 246, 'types': ['ground', 'rock']}
+{'name': 'Pupitar', 'weight': u'1520', 'generation': 2, 'hp': 70, 'attack': 84, 'defense': 70, 'sp_atk': 65, 'sp_def': 70, 'speed': 51, 'id': 247, 'types': ['ground', 'rock']}
+{'name': 'Tyranitar', 'weight': u'2020', 'generation': 2, 'hp': 100, 'attack': 134, 'defense': 110, 'sp_atk': 95, 'sp_def': 100, 'speed': 61, 'id': 248, 'types': ['rock', 'dark']}
+{'name': 'Lugia', 'weight': u'2160', 'generation': 2, 'hp': 106, 'attack': 90, 'defense': 130, 'sp_atk': 90, 'sp_def': 154, 'speed': 110, 'id': 249, 'types': ['flying', 'psychic']}
+{'name': 'Ho-oh', 'weight': u'1990', 'generation': 2, 'hp': 106, 'attack': 130, 'defense': 90, 'sp_atk': 110, 'sp_def': 154, 'speed': 90, 'id': 250, 'types': ['flying', 'fire']}
+{'name': 'Celebi', 'weight': u'50', 'generation': 2, 'hp': 100, 'attack': 100, 'defense': 100, 'sp_atk': 100, 'sp_def': 100, 'speed': 100, 'id': 251, 'types': ['grass', 'psychic']}
+{'name': 'Treecko', 'weight': u'50', 'generation': 3, 'hp': 40, 'attack': 45, 'defense': 35, 'sp_atk': 65, 'sp_def': 55, 'speed': 70, 'id': 252, 'types': ['grass']}
+{'name': 'Grovyle', 'weight': u'216', 'generation': 3, 'hp': 50, 'attack': 65, 'defense': 45, 'sp_atk': 85, 'sp_def': 65, 'speed': 95, 'id': 253, 'types': ['grass']}
+{'name': 'Sceptile', 'weight': u'522', 'generation': 3, 'hp': 70, 'attack': 85, 'defense': 65, 'sp_atk': 105, 'sp_def': 85, 'speed': 120, 'id': 254, 'types': ['grass']}
+{'name': 'Torchic', 'weight': u'25', 'generation': 3, 'hp': 45, 'attack': 60, 'defense': 40, 'sp_atk': 70, 'sp_def': 50, 'speed': 45, 'id': 255, 'types': ['fire']}
+{'name': 'Combusken', 'weight': u'195', 'generation': 3, 'hp': 60, 'attack': 85, 'defense': 60, 'sp_atk': 85, 'sp_def': 60, 'speed': 55, 'id': 256, 'types': ['fighting', 'fire']}
+{'name': 'Blaziken', 'weight': u'520', 'generation': 3, 'hp': 80, 'attack': 120, 'defense': 70, 'sp_atk': 110, 'sp_def': 70, 'speed': 80, 'id': 257, 'types': ['fighting', 'fire']}
+{'name': 'Mudkip', 'weight': u'76', 'generation': 3, 'hp': 50, 'attack': 70, 'defense': 50, 'sp_atk': 50, 'sp_def': 50, 'speed': 40, 'id': 258, 'types': ['water']}
+{'name': 'Marshtomp', 'weight': u'280', 'generation': 3, 'hp': 70, 'attack': 85, 'defense': 70, 'sp_atk': 60, 'sp_def': 70, 'speed': 50, 'id': 259, 'types': ['ground', 'water']}
+{'name': 'Swampert', 'weight': u'819', 'generation': 3, 'hp': 100, 'attack': 110, 'defense': 90, 'sp_atk': 85, 'sp_def': 90, 'speed': 60, 'id': 260, 'types': ['ground', 'water']}
+{'name': 'Poochyena', 'weight': u'136', 'generation': 3, 'hp': 35, 'attack': 55, 'defense': 35, 'sp_atk': 30, 'sp_def': 30, 'speed': 35, 'id': 261, 'types': ['dark']}
+{'name': 'Mightyena', 'weight': u'370', 'generation': 3, 'hp': 70, 'attack': 90, 'defense': 70, 'sp_atk': 60, 'sp_def': 60, 'speed': 70, 'id': 262, 'types': ['dark']}
+{'name': 'Zigzagoon', 'weight': u'175', 'generation': 3, 'hp': 38, 'attack': 30, 'defense': 41, 'sp_atk': 30, 'sp_def': 41, 'speed': 60, 'id': 263, 'types': ['normal']}
+{'name': 'Linoone', 'weight': u'325', 'generation': 3, 'hp': 78, 'attack': 70, 'defense': 61, 'sp_atk': 50, 'sp_def': 61, 'speed': 100, 'id': 264, 'types': ['normal']}
+{'name': 'Wurmple', 'weight': u'36', 'generation': 3, 'hp': 45, 'attack': 45, 'defense': 35, 'sp_atk': 20, 'sp_def': 30, 'speed': 20, 'id': 265, 'types': ['bug']}
+{'name': 'Silcoon', 'weight': u'100', 'generation': 3, 'hp': 50, 'attack': 35, 'defense': 55, 'sp_atk': 25, 'sp_def': 25, 'speed': 15, 'id': 266, 'types': ['bug']}
+{'name': 'Beautifly', 'weight': u'284', 'generation': 3, 'hp': 60, 'attack': 70, 'defense': 50, 'sp_atk': 100, 'sp_def': 50, 'speed': 65, 'id': 267, 'types': ['flying', 'bug']}
+{'name': 'Cascoon', 'weight': u'115', 'generation': 3, 'hp': 50, 'attack': 35, 'defense': 55, 'sp_atk': 25, 'sp_def': 25, 'speed': 15, 'id': 268, 'types': ['bug']}
+{'name': 'Dustox', 'weight': u'316', 'generation': 3, 'hp': 60, 'attack': 50, 'defense': 70, 'sp_atk': 50, 'sp_def': 90, 'speed': 65, 'id': 269, 'types': ['poison', 'bug']}
+{'name': 'Lotad', 'weight': u'26', 'generation': 3, 'hp': 40, 'attack': 30, 'defense': 30, 'sp_atk': 40, 'sp_def': 50, 'speed': 30, 'id': 270, 'types': ['water', 'grass']}
+{'name': 'Lombre', 'weight': u'325', 'generation': 3, 'hp': 60, 'attack': 50, 'defense': 50, 'sp_atk': 60, 'sp_def': 70, 'speed': 50, 'id': 271, 'types': ['water', 'grass']}
+{'name': 'Ludicolo', 'weight': u'550', 'generation': 3, 'hp': 80, 'attack': 70, 'defense': 70, 'sp_atk': 90, 'sp_def': 100, 'speed': 70, 'id': 272, 'types': ['water', 'grass']}
+{'name': 'Seedot', 'weight': u'40', 'generation': 3, 'hp': 40, 'attack': 40, 'defense': 50, 'sp_atk': 30, 'sp_def': 30, 'speed': 30, 'id': 273, 'types': ['grass']}
+{'name': 'Nuzleaf', 'weight': u'280', 'generation': 3, 'hp': 70, 'attack': 70, 'defense': 40, 'sp_atk': 60, 'sp_def': 40, 'speed': 60, 'id': 274, 'types': ['grass', 'dark']}
+{'name': 'Shiftry', 'weight': u'596', 'generation': 3, 'hp': 90, 'attack': 100, 'defense': 60, 'sp_atk': 90, 'sp_def': 60, 'speed': 80, 'id': 275, 'types': ['grass', 'dark']}
+{'name': 'Taillow', 'weight': u'23', 'generation': 3, 'hp': 40, 'attack': 55, 'defense': 30, 'sp_atk': 30, 'sp_def': 30, 'speed': 85, 'id': 276, 'types': ['normal', 'flying']}
+{'name': 'Swellow', 'weight': u'198', 'generation': 3, 'hp': 60, 'attack': 85, 'defense': 60, 'sp_atk': 50, 'sp_def': 50, 'speed': 125, 'id': 277, 'types': ['normal', 'flying']}
+{'name': 'Wingull', 'weight': u'95', 'generation': 3, 'hp': 40, 'attack': 30, 'defense': 30, 'sp_atk': 55, 'sp_def': 30, 'speed': 85, 'id': 278, 'types': ['flying', 'water']}
+{'name': 'Pelipper', 'weight': u'280', 'generation': 3, 'hp': 60, 'attack': 50, 'defense': 100, 'sp_atk': 85, 'sp_def': 70, 'speed': 65, 'id': 279, 'types': ['flying', 'water']}
+{'name': 'Ralts', 'weight': u'66', 'generation': 3, 'hp': 28, 'attack': 25, 'defense': 25, 'sp_atk': 45, 'sp_def': 35, 'speed': 40, 'id': 280, 'types': ['fairy', 'psychic']}
+{'name': 'Kirlia', 'weight': u'202', 'generation': 3, 'hp': 38, 'attack': 35, 'defense': 35, 'sp_atk': 65, 'sp_def': 55, 'speed': 50, 'id': 281, 'types': ['fairy', 'psychic']}
+{'name': 'Gardevoir', 'weight': u'484', 'generation': 3, 'hp': 68, 'attack': 65, 'defense': 65, 'sp_atk': 125, 'sp_def': 115, 'speed': 80, 'id': 282, 'types': ['fairy', 'psychic']}
+{'name': 'Surskit', 'weight': u'17', 'generation': 3, 'hp': 40, 'attack': 30, 'defense': 32, 'sp_atk': 50, 'sp_def': 52, 'speed': 65, 'id': 283, 'types': ['bug', 'water']}
+{'name': 'Masquerain', 'weight': u'36', 'generation': 3, 'hp': 70, 'attack': 60, 'defense': 62, 'sp_atk': 80, 'sp_def': 82, 'speed': 60, 'id': 284, 'types': ['flying', 'bug']}
+{'name': 'Shroomish', 'weight': u'45', 'generation': 3, 'hp': 60, 'attack': 40, 'defense': 60, 'sp_atk': 40, 'sp_def': 60, 'speed': 35, 'id': 285, 'types': ['grass']}
+{'name': 'Breloom', 'weight': u'392', 'generation': 3, 'hp': 60, 'attack': 130, 'defense': 80, 'sp_atk': 60, 'sp_def': 60, 'speed': 70, 'id': 286, 'types': ['fighting', 'grass']}
+{'name': 'Slakoth', 'weight': u'240', 'generation': 3, 'hp': 60, 'attack': 60, 'defense': 60, 'sp_atk': 35, 'sp_def': 35, 'speed': 30, 'id': 287, 'types': ['normal']}
+{'name': 'Vigoroth', 'weight': u'465', 'generation': 3, 'hp': 80, 'attack': 80, 'defense': 80, 'sp_atk': 55, 'sp_def': 55, 'speed': 90, 'id': 288, 'types': ['normal']}
+{'name': 'Slaking', 'weight': u'1305', 'generation': 3, 'hp': 150, 'attack': 160, 'defense': 100, 'sp_atk': 95, 'sp_def': 65, 'speed': 100, 'id': 289, 'types': ['normal']}
+{'name': 'Nincada', 'weight': u'55', 'generation': 3, 'hp': 31, 'attack': 45, 'defense': 90, 'sp_atk': 30, 'sp_def': 30, 'speed': 40, 'id': 290, 'types': ['ground', 'bug']}
+{'name': 'Ninjask', 'weight': u'120', 'generation': 3, 'hp': 61, 'attack': 90, 'defense': 45, 'sp_atk': 50, 'sp_def': 50, 'speed': 160, 'id': 291, 'types': ['flying', 'bug']}
+{'name': 'Shedinja', 'weight': u'12', 'generation': 3, 'hp': 1, 'attack': 90, 'defense': 45, 'sp_atk': 30, 'sp_def': 30, 'speed': 40, 'id': 292, 'types': ['bug', 'ghost']}
+{'name': 'Whismur', 'weight': u'163', 'generation': 3, 'hp': 64, 'attack': 51, 'defense': 23, 'sp_atk': 51, 'sp_def': 23, 'speed': 28, 'id': 293, 'types': ['normal']}
+{'name': 'Loudred', 'weight': u'405', 'generation': 3, 'hp': 84, 'attack': 71, 'defense': 43, 'sp_atk': 71, 'sp_def': 43, 'speed': 48, 'id': 294, 'types': ['normal']}
+{'name': 'Exploud', 'weight': u'840', 'generation': 3, 'hp': 104, 'attack': 91, 'defense': 63, 'sp_atk': 91, 'sp_def': 73, 'speed': 68, 'id': 295, 'types': ['normal']}
+{'name': 'Makuhita', 'weight': u'864', 'generation': 3, 'hp': 72, 'attack': 60, 'defense': 30, 'sp_atk': 20, 'sp_def': 30, 'speed': 25, 'id': 296, 'types': ['fighting']}
+{'name': 'Hariyama', 'weight': u'2538', 'generation': 3, 'hp': 144, 'attack': 120, 'defense': 60, 'sp_atk': 40, 'sp_def': 60, 'speed': 50, 'id': 297, 'types': ['fighting']}
+{'name': 'Azurill', 'weight': u'20', 'generation': 3, 'hp': 50, 'attack': 20, 'defense': 40, 'sp_atk': 20, 'sp_def': 40, 'speed': 20, 'id': 298, 'types': ['normal', 'fairy']}
+{'name': 'Nosepass', 'weight': u'970', 'generation': 3, 'hp': 30, 'attack': 45, 'defense': 135, 'sp_atk': 45, 'sp_def': 90, 'speed': 30, 'id': 299, 'types': ['rock']}
+{'name': 'Skitty', 'weight': u'110', 'generation': 3, 'hp': 50, 'attack': 45, 'defense': 45, 'sp_atk': 35, 'sp_def': 35, 'speed': 50, 'id': 300, 'types': ['normal']}
+{'name': 'Delcatty', 'weight': u'326', 'generation': 3, 'hp': 70, 'attack': 65, 'defense': 65, 'sp_atk': 55, 'sp_def': 55, 'speed': 70, 'id': 301, 'types': ['normal']}
+{'name': 'Sableye', 'weight': u'110', 'generation': 3, 'hp': 50, 'attack': 75, 'defense': 75, 'sp_atk': 65, 'sp_def': 65, 'speed': 50, 'id': 302, 'types': ['ghost', 'dark']}
+{'name': 'Mawile', 'weight': u'115', 'generation': 3, 'hp': 50, 'attack': 85, 'defense': 85, 'sp_atk': 55, 'sp_def': 55, 'speed': 50, 'id': 303, 'types': ['steel', 'fairy']}
+{'name': 'Aron', 'weight': u'600', 'generation': 3, 'hp': 50, 'attack': 70, 'defense': 100, 'sp_atk': 40, 'sp_def': 40, 'speed': 30, 'id': 304, 'types': ['rock', 'steel']}
+{'name': 'Lairon', 'weight': u'1200', 'generation': 3, 'hp': 60, 'attack': 90, 'defense': 140, 'sp_atk': 50, 'sp_def': 50, 'speed': 40, 'id': 305, 'types': ['rock', 'steel']}
+{'name': 'Aggron', 'weight': u'3600', 'generation': 3, 'hp': 70, 'attack': 110, 'defense': 180, 'sp_atk': 60, 'sp_def': 60, 'speed': 50, 'id': 306, 'types': ['rock', 'steel']}
+{'name': 'Meditite', 'weight': u'112', 'generation': 3, 'hp': 30, 'attack': 40, 'defense': 55, 'sp_atk': 40, 'sp_def': 55, 'speed': 60, 'id': 307, 'types': ['fighting', 'psychic']}
+{'name': 'Medicham', 'weight': u'315', 'generation': 3, 'hp': 60, 'attack': 60, 'defense': 75, 'sp_atk': 60, 'sp_def': 75, 'speed': 80, 'id': 308, 'types': ['fighting', 'psychic']}
+{'name': 'Electrike', 'weight': u'152', 'generation': 3, 'hp': 40, 'attack': 45, 'defense': 40, 'sp_atk': 65, 'sp_def': 40, 'speed': 65, 'id': 309, 'types': ['electric']}
+{'name': 'Manectric', 'weight': u'402', 'generation': 3, 'hp': 70, 'attack': 75, 'defense': 60, 'sp_atk': 105, 'sp_def': 60, 'speed': 105, 'id': 310, 'types': ['electric']}
+{'name': 'Plusle', 'weight': u'42', 'generation': 3, 'hp': 60, 'attack': 50, 'defense': 40, 'sp_atk': 85, 'sp_def': 75, 'speed': 95, 'id': 311, 'types': ['electric']}
+{'name': 'Minun', 'weight': u'42', 'generation': 3, 'hp': 60, 'attack': 40, 'defense': 50, 'sp_atk': 75, 'sp_def': 85, 'speed': 95, 'id': 312, 'types': ['electric']}
+{'name': 'Volbeat', 'weight': u'177', 'generation': 3, 'hp': 65, 'attack': 73, 'defense': 55, 'sp_atk': 47, 'sp_def': 75, 'speed': 85, 'id': 313, 'types': ['bug']}
+{'name': 'Illumise', 'weight': u'177', 'generation': 3, 'hp': 65, 'attack': 47, 'defense': 55, 'sp_atk': 73, 'sp_def': 75, 'speed': 85, 'id': 314, 'types': ['bug']}
+{'name': 'Roselia', 'weight': u'20', 'generation': 3, 'hp': 50, 'attack': 60, 'defense': 45, 'sp_atk': 100, 'sp_def': 80, 'speed': 65, 'id': 315, 'types': ['poison', 'grass']}
+{'name': 'Gulpin', 'weight': u'103', 'generation': 3, 'hp': 70, 'attack': 43, 'defense': 53, 'sp_atk': 43, 'sp_def': 53, 'speed': 40, 'id': 316, 'types': ['poison']}
+{'name': 'Swalot', 'weight': u'800', 'generation': 3, 'hp': 100, 'attack': 73, 'defense': 83, 'sp_atk': 73, 'sp_def': 83, 'speed': 55, 'id': 317, 'types': ['poison']}
+{'name': 'Carvanha', 'weight': u'208', 'generation': 3, 'hp': 45, 'attack': 90, 'defense': 20, 'sp_atk': 65, 'sp_def': 20, 'speed': 65, 'id': 318, 'types': ['water', 'dark']}
+{'name': 'Sharpedo', 'weight': u'888', 'generation': 3, 'hp': 70, 'attack': 120, 'defense': 40, 'sp_atk': 95, 'sp_def': 40, 'speed': 95, 'id': 319, 'types': ['water', 'dark']}
+{'name': 'Wailmer', 'weight': u'1300', 'generation': 3, 'hp': 130, 'attack': 70, 'defense': 35, 'sp_atk': 70, 'sp_def': 35, 'speed': 60, 'id': 320, 'types': ['water']}
+{'name': 'Wailord', 'weight': u'3980', 'generation': 3, 'hp': 170, 'attack': 90, 'defense': 45, 'sp_atk': 90, 'sp_def': 45, 'speed': 60, 'id': 321, 'types': ['water']}
+{'name': 'Numel', 'weight': u'240', 'generation': 3, 'hp': 60, 'attack': 60, 'defense': 40, 'sp_atk': 65, 'sp_def': 45, 'speed': 35, 'id': 322, 'types': ['ground', 'fire']}
+{'name': 'Camerupt', 'weight': u'2200', 'generation': 3, 'hp': 70, 'attack': 100, 'defense': 70, 'sp_atk': 105, 'sp_def': 75, 'speed': 40, 'id': 323, 'types': ['ground', 'fire']}
+{'name': 'Torkoal', 'weight': u'804', 'generation': 3, 'hp': 70, 'attack': 85, 'defense': 140, 'sp_atk': 85, 'sp_def': 70, 'speed': 20, 'id': 324, 'types': ['fire']}
+{'name': 'Spoink', 'weight': u'306', 'generation': 3, 'hp': 60, 'attack': 25, 'defense': 35, 'sp_atk': 70, 'sp_def': 80, 'speed': 60, 'id': 325, 'types': ['psychic']}
+{'name': 'Grumpig', 'weight': u'715', 'generation': 3, 'hp': 80, 'attack': 45, 'defense': 65, 'sp_atk': 90, 'sp_def': 110, 'speed': 80, 'id': 326, 'types': ['psychic']}
+{'name': 'Spinda', 'weight': u'50', 'generation': 3, 'hp': 60, 'attack': 60, 'defense': 60, 'sp_atk': 60, 'sp_def': 60, 'speed': 60, 'id': 327, 'types': ['normal']}
+{'name': 'Trapinch', 'weight': u'150', 'generation': 3, 'hp': 45, 'attack': 100, 'defense': 45, 'sp_atk': 45, 'sp_def': 45, 'speed': 10, 'id': 328, 'types': ['ground']}
+{'name': 'Vibrava', 'weight': u'153', 'generation': 3, 'hp': 50, 'attack': 70, 'defense': 50, 'sp_atk': 50, 'sp_def': 50, 'speed': 70, 'id': 329, 'types': ['ground', 'dragon']}
+{'name': 'Flygon', 'weight': u'820', 'generation': 3, 'hp': 80, 'attack': 100, 'defense': 80, 'sp_atk': 80, 'sp_def': 80, 'speed': 100, 'id': 330, 'types': ['ground', 'dragon']}
+{'name': 'Cacnea', 'weight': u'513', 'generation': 3, 'hp': 50, 'attack': 85, 'defense': 40, 'sp_atk': 85, 'sp_def': 40, 'speed': 35, 'id': 331, 'types': ['grass']}
+{'name': 'Cacturne', 'weight': u'774', 'generation': 3, 'hp': 70, 'attack': 115, 'defense': 60, 'sp_atk': 115, 'sp_def': 60, 'speed': 55, 'id': 332, 'types': ['grass', 'dark']}
+{'name': 'Swablu', 'weight': u'12', 'generation': 3, 'hp': 45, 'attack': 40, 'defense': 60, 'sp_atk': 40, 'sp_def': 75, 'speed': 50, 'id': 333, 'types': ['normal', 'flying']}
+{'name': 'Altaria', 'weight': u'206', 'generation': 3, 'hp': 75, 'attack': 70, 'defense': 90, 'sp_atk': 70, 'sp_def': 105, 'speed': 80, 'id': 334, 'types': ['flying', 'dragon']}
+{'name': 'Zangoose', 'weight': u'403', 'generation': 3, 'hp': 73, 'attack': 115, 'defense': 60, 'sp_atk': 60, 'sp_def': 60, 'speed': 90, 'id': 335, 'types': ['normal']}
+{'name': 'Seviper', 'weight': u'525', 'generation': 3, 'hp': 73, 'attack': 100, 'defense': 60, 'sp_atk': 100, 'sp_def': 60, 'speed': 65, 'id': 336, 'types': ['poison']}
+{'name': 'Lunatone', 'weight': u'1680', 'generation': 3, 'hp': 70, 'attack': 55, 'defense': 65, 'sp_atk': 95, 'sp_def': 85, 'speed': 70, 'id': 337, 'types': ['rock', 'psychic']}
+{'name': 'Solrock', 'weight': u'1540', 'generation': 3, 'hp': 70, 'attack': 95, 'defense': 85, 'sp_atk': 55, 'sp_def': 65, 'speed': 70, 'id': 338, 'types': ['rock', 'psychic']}
+{'name': 'Barboach', 'weight': u'19', 'generation': 3, 'hp': 50, 'attack': 48, 'defense': 43, 'sp_atk': 46, 'sp_def': 41, 'speed': 60, 'id': 339, 'types': ['ground', 'water']}
+{'name': 'Whiscash', 'weight': u'236', 'generation': 3, 'hp': 110, 'attack': 78, 'defense': 73, 'sp_atk': 76, 'sp_def': 71, 'speed': 60, 'id': 340, 'types': ['ground', 'water']}
+{'name': 'Corphish', 'weight': u'115', 'generation': 3, 'hp': 43, 'attack': 80, 'defense': 65, 'sp_atk': 50, 'sp_def': 35, 'speed': 35, 'id': 341, 'types': ['water']}
+{'name': 'Crawdaunt', 'weight': u'328', 'generation': 3, 'hp': 63, 'attack': 120, 'defense': 85, 'sp_atk': 90, 'sp_def': 55, 'speed': 55, 'id': 342, 'types': ['water', 'dark']}
+{'name': 'Baltoy', 'weight': u'215', 'generation': 3, 'hp': 40, 'attack': 40, 'defense': 55, 'sp_atk': 40, 'sp_def': 70, 'speed': 55, 'id': 343, 'types': ['ground', 'psychic']}
+{'name': 'Claydol', 'weight': u'1080', 'generation': 3, 'hp': 60, 'attack': 70, 'defense': 105, 'sp_atk': 70, 'sp_def': 120, 'speed': 75, 'id': 344, 'types': ['ground', 'psychic']}
+{'name': 'Lileep', 'weight': u'238', 'generation': 3, 'hp': 66, 'attack': 41, 'defense': 77, 'sp_atk': 61, 'sp_def': 87, 'speed': 23, 'id': 345, 'types': ['rock', 'grass']}
+{'name': 'Cradily', 'weight': u'604', 'generation': 3, 'hp': 86, 'attack': 81, 'defense': 97, 'sp_atk': 81, 'sp_def': 107, 'speed': 43, 'id': 346, 'types': ['rock', 'grass']}
+{'name': 'Anorith', 'weight': u'125', 'generation': 3, 'hp': 45, 'attack': 95, 'defense': 50, 'sp_atk': 40, 'sp_def': 50, 'speed': 75, 'id': 347, 'types': ['rock', 'bug']}
+{'name': 'Armaldo', 'weight': u'682', 'generation': 3, 'hp': 75, 'attack': 125, 'defense': 100, 'sp_atk': 70, 'sp_def': 80, 'speed': 45, 'id': 348, 'types': ['rock', 'bug']}
+{'name': 'Feebas', 'weight': u'74', 'generation': 3, 'hp': 20, 'attack': 15, 'defense': 20, 'sp_atk': 10, 'sp_def': 55, 'speed': 80, 'id': 349, 'types': ['water']}
+{'name': 'Milotic', 'weight': u'1620', 'generation': 3, 'hp': 95, 'attack': 60, 'defense': 79, 'sp_atk': 100, 'sp_def': 125, 'speed': 81, 'id': 350, 'types': ['water']}
+{'name': 'Castform', 'weight': u'8', 'generation': 3, 'hp': 70, 'attack': 70, 'defense': 70, 'sp_atk': 70, 'sp_def': 70, 'speed': 70, 'id': 351, 'types': ['normal']}
+{'name': 'Kecleon', 'weight': u'220', 'generation': 3, 'hp': 60, 'attack': 90, 'defense': 70, 'sp_atk': 60, 'sp_def': 120, 'speed': 40, 'id': 352, 'types': ['normal']}
+{'name': 'Shuppet', 'weight': u'23', 'generation': 3, 'hp': 44, 'attack': 75, 'defense': 35, 'sp_atk': 63, 'sp_def': 33, 'speed': 45, 'id': 353, 'types': ['ghost']}
+{'name': 'Banette', 'weight': u'125', 'generation': 3, 'hp': 64, 'attack': 115, 'defense': 65, 'sp_atk': 83, 'sp_def': 63, 'speed': 65, 'id': 354, 'types': ['ghost']}
+{'name': 'Duskull', 'weight': u'150', 'generation': 3, 'hp': 20, 'attack': 40, 'defense': 90, 'sp_atk': 30, 'sp_def': 90, 'speed': 25, 'id': 355, 'types': ['ghost']}
+{'name': 'Dusclops', 'weight': u'306', 'generation': 3, 'hp': 40, 'attack': 70, 'defense': 130, 'sp_atk': 60, 'sp_def': 130, 'speed': 25, 'id': 356, 'types': ['ghost']}
+{'name': 'Tropius', 'weight': u'1000', 'generation': 3, 'hp': 99, 'attack': 68, 'defense': 83, 'sp_atk': 72, 'sp_def': 87, 'speed': 51, 'id': 357, 'types': ['flying', 'grass']}
+{'name': 'Chimecho', 'weight': u'10', 'generation': 3, 'hp': 65, 'attack': 50, 'defense': 70, 'sp_atk': 95, 'sp_def': 80, 'speed': 65, 'id': 358, 'types': ['psychic']}
+{'name': 'Absol', 'weight': u'470', 'generation': 3, 'hp': 65, 'attack': 130, 'defense': 60, 'sp_atk': 75, 'sp_def': 60, 'speed': 75, 'id': 359, 'types': ['dark']}
+{'name': 'Wynaut', 'weight': u'140', 'generation': 3, 'hp': 95, 'attack': 23, 'defense': 48, 'sp_atk': 23, 'sp_def': 48, 'speed': 23, 'id': 360, 'types': ['psychic']}
+{'name': 'Snorunt', 'weight': u'168', 'generation': 3, 'hp': 50, 'attack': 50, 'defense': 50, 'sp_atk': 50, 'sp_def': 50, 'speed': 50, 'id': 361, 'types': ['ice']}
+{'name': 'Glalie', 'weight': u'2565', 'generation': 3, 'hp': 80, 'attack': 80, 'defense': 80, 'sp_atk': 80, 'sp_def': 80, 'speed': 80, 'id': 362, 'types': ['ice']}
+{'name': 'Spheal', 'weight': u'395', 'generation': 3, 'hp': 70, 'attack': 40, 'defense': 50, 'sp_atk': 55, 'sp_def': 50, 'speed': 25, 'id': 363, 'types': ['water', 'ice']}
+{'name': 'Sealeo', 'weight': u'876', 'generation': 3, 'hp': 90, 'attack': 60, 'defense': 70, 'sp_atk': 75, 'sp_def': 70, 'speed': 45, 'id': 364, 'types': ['water', 'ice']}
+{'name': 'Walrein', 'weight': u'1506', 'generation': 3, 'hp': 110, 'attack': 80, 'defense': 90, 'sp_atk': 95, 'sp_def': 90, 'speed': 65, 'id': 365, 'types': ['water', 'ice']}
+{'name': 'Clamperl', 'weight': u'525', 'generation': 3, 'hp': 35, 'attack': 64, 'defense': 85, 'sp_atk': 74, 'sp_def': 55, 'speed': 32, 'id': 366, 'types': ['water']}
+{'name': 'Huntail', 'weight': u'270', 'generation': 3, 'hp': 55, 'attack': 104, 'defense': 105, 'sp_atk': 94, 'sp_def': 75, 'speed': 52, 'id': 367, 'types': ['water']}
+{'name': 'Gorebyss', 'weight': u'226', 'generation': 3, 'hp': 55, 'attack': 84, 'defense': 105, 'sp_atk': 114, 'sp_def': 75, 'speed': 52, 'id': 368, 'types': ['water']}
+{'name': 'Relicanth', 'weight': u'234', 'generation': 3, 'hp': 100, 'attack': 90, 'defense': 130, 'sp_atk': 45, 'sp_def': 65, 'speed': 55, 'id': 369, 'types': ['rock', 'water']}
+{'name': 'Luvdisc', 'weight': u'87', 'generation': 3, 'hp': 43, 'attack': 30, 'defense': 55, 'sp_atk': 40, 'sp_def': 65, 'speed': 97, 'id': 370, 'types': ['water']}
+{'name': 'Bagon', 'weight': u'421', 'generation': 3, 'hp': 45, 'attack': 75, 'defense': 60, 'sp_atk': 40, 'sp_def': 30, 'speed': 50, 'id': 371, 'types': ['dragon']}
+{'name': 'Shelgon', 'weight': u'1105', 'generation': 3, 'hp': 65, 'attack': 95, 'defense': 100, 'sp_atk': 60, 'sp_def': 50, 'speed': 50, 'id': 372, 'types': ['dragon']}
+{'name': 'Salamence', 'weight': u'1026', 'generation': 3, 'hp': 95, 'attack': 135, 'defense': 80, 'sp_atk': 110, 'sp_def': 80, 'speed': 100, 'id': 373, 'types': ['flying', 'dragon']}
+{'name': 'Beldum', 'weight': u'952', 'generation': 3, 'hp': 40, 'attack': 55, 'defense': 80, 'sp_atk': 35, 'sp_def': 60, 'speed': 30, 'id': 374, 'types': ['steel', 'psychic']}
+{'name': 'Metang', 'weight': u'2025', 'generation': 3, 'hp': 60, 'attack': 75, 'defense': 100, 'sp_atk': 55, 'sp_def': 80, 'speed': 50, 'id': 375, 'types': ['steel', 'psychic']}
+{'name': 'Metagross', 'weight': u'5500', 'generation': 3, 'hp': 80, 'attack': 135, 'defense': 130, 'sp_atk': 95, 'sp_def': 90, 'speed': 70, 'id': 376, 'types': ['steel', 'psychic']}
+{'name': 'Regirock', 'weight': u'2300', 'generation': 3, 'hp': 80, 'attack': 100, 'defense': 200, 'sp_atk': 50, 'sp_def': 100, 'speed': 50, 'id': 377, 'types': ['rock']}
+{'name': 'Regice', 'weight': u'1750', 'generation': 3, 'hp': 80, 'attack': 50, 'defense': 100, 'sp_atk': 100, 'sp_def': 200, 'speed': 50, 'id': 378, 'types': ['ice']}
+{'name': 'Registeel', 'weight': u'2050', 'generation': 3, 'hp': 80, 'attack': 75, 'defense': 150, 'sp_atk': 75, 'sp_def': 150, 'speed': 50, 'id': 379, 'types': ['steel']}
+{'name': 'Latias', 'weight': u'400', 'generation': 3, 'hp': 80, 'attack': 80, 'defense': 90, 'sp_atk': 110, 'sp_def': 130, 'speed': 110, 'id': 380, 'types': ['dragon', 'psychic']}
+{'name': 'Latios', 'weight': u'600', 'generation': 3, 'hp': 80, 'attack': 90, 'defense': 80, 'sp_atk': 130, 'sp_def': 110, 'speed': 110, 'id': 381, 'types': ['dragon', 'psychic']}
+{'name': 'Kyogre', 'weight': u'3520', 'generation': 3, 'hp': 100, 'attack': 100, 'defense': 90, 'sp_atk': 150, 'sp_def': 140, 'speed': 90, 'id': 382, 'types': ['water']}
+{'name': 'Groudon', 'weight': u'9500', 'generation': 3, 'hp': 100, 'attack': 150, 'defense': 140, 'sp_atk': 100, 'sp_def': 90, 'speed': 90, 'id': 383, 'types': ['ground']}
+{'name': 'Rayquaza', 'weight': u'2065', 'generation': 3, 'hp': 105, 'attack': 150, 'defense': 90, 'sp_atk': 150, 'sp_def': 90, 'speed': 95, 'id': 384, 'types': ['flying', 'dragon']}
+{'name': 'Jirachi', 'weight': u'11', 'generation': 3, 'hp': 100, 'attack': 100, 'defense': 100, 'sp_atk': 100, 'sp_def': 100, 'speed': 100, 'id': 385, 'types': ['steel', 'psychic']}
+{'name': 'Deoxys-normal', 'weight': u'608', 'generation': 3, 'hp': 50, 'attack': 150, 'defense': 50, 'sp_atk': 150, 'sp_def': 50, 'speed': 150, 'id': 386, 'types': ['psychic']}
+{'name': 'Turtwig', 'weight': u'102', 'generation': 4, 'hp': 55, 'attack': 68, 'defense': 64, 'sp_atk': 45, 'sp_def': 55, 'speed': 31, 'id': 387, 'types': ['grass']}
+{'name': 'Grotle', 'weight': u'970', 'generation': 4, 'hp': 75, 'attack': 89, 'defense': 85, 'sp_atk': 55, 'sp_def': 65, 'speed': 36, 'id': 388, 'types': ['grass']}
+{'name': 'Torterra', 'weight': u'3100', 'generation': 4, 'hp': 95, 'attack': 109, 'defense': 105, 'sp_atk': 75, 'sp_def': 85, 'speed': 56, 'id': 389, 'types': ['ground', 'grass']}
+{'name': 'Chimchar', 'weight': u'62', 'generation': 4, 'hp': 44, 'attack': 58, 'defense': 44, 'sp_atk': 58, 'sp_def': 44, 'speed': 61, 'id': 390, 'types': ['fire']}
+{'name': 'Monferno', 'weight': u'220', 'generation': 4, 'hp': 64, 'attack': 78, 'defense': 52, 'sp_atk': 78, 'sp_def': 52, 'speed': 81, 'id': 391, 'types': ['fighting', 'fire']}
+{'name': 'Infernape', 'weight': u'550', 'generation': 4, 'hp': 76, 'attack': 104, 'defense': 71, 'sp_atk': 104, 'sp_def': 71, 'speed': 108, 'id': 392, 'types': ['fighting', 'fire']}
+{'name': 'Piplup', 'weight': u'52', 'generation': 4, 'hp': 53, 'attack': 51, 'defense': 53, 'sp_atk': 61, 'sp_def': 56, 'speed': 40, 'id': 393, 'types': ['water']}
+{'name': 'Prinplup', 'weight': u'230', 'generation': 4, 'hp': 64, 'attack': 66, 'defense': 68, 'sp_atk': 81, 'sp_def': 76, 'speed': 50, 'id': 394, 'types': ['water']}
+{'name': 'Empoleon', 'weight': u'845', 'generation': 4, 'hp': 84, 'attack': 86, 'defense': 88, 'sp_atk': 111, 'sp_def': 101, 'speed': 60, 'id': 395, 'types': ['steel', 'water']}
+{'name': 'Starly', 'weight': u'20', 'generation': 4, 'hp': 40, 'attack': 55, 'defense': 30, 'sp_atk': 30, 'sp_def': 30, 'speed': 60, 'id': 396, 'types': ['normal', 'flying']}
+{'name': 'Staravia', 'weight': u'155', 'generation': 4, 'hp': 55, 'attack': 75, 'defense': 50, 'sp_atk': 40, 'sp_def': 40, 'speed': 80, 'id': 397, 'types': ['normal', 'flying']}
+{'name': 'Staraptor', 'weight': u'249', 'generation': 4, 'hp': 85, 'attack': 120, 'defense': 70, 'sp_atk': 50, 'sp_def': 60, 'speed': 100, 'id': 398, 'types': ['normal', 'flying']}
+{'name': 'Bidoof', 'weight': u'200', 'generation': 4, 'hp': 59, 'attack': 45, 'defense': 40, 'sp_atk': 35, 'sp_def': 40, 'speed': 31, 'id': 399, 'types': ['normal']}
+{'name': 'Bibarel', 'weight': u'315', 'generation': 4, 'hp': 79, 'attack': 85, 'defense': 60, 'sp_atk': 55, 'sp_def': 60, 'speed': 71, 'id': 400, 'types': ['normal', 'water']}
+{'name': 'Kricketot', 'weight': u'22', 'generation': 4, 'hp': 37, 'attack': 25, 'defense': 41, 'sp_atk': 25, 'sp_def': 41, 'speed': 25, 'id': 401, 'types': ['bug']}
+{'name': 'Kricketune', 'weight': u'255', 'generation': 4, 'hp': 77, 'attack': 85, 'defense': 51, 'sp_atk': 55, 'sp_def': 51, 'speed': 65, 'id': 402, 'types': ['bug']}
+{'name': 'Shinx', 'weight': u'95', 'generation': 4, 'hp': 45, 'attack': 65, 'defense': 34, 'sp_atk': 40, 'sp_def': 34, 'speed': 45, 'id': 403, 'types': ['electric']}
+{'name': 'Luxio', 'weight': u'305', 'generation': 4, 'hp': 60, 'attack': 85, 'defense': 49, 'sp_atk': 60, 'sp_def': 49, 'speed': 60, 'id': 404, 'types': ['electric']}
+{'name': 'Luxray', 'weight': u'420', 'generation': 4, 'hp': 80, 'attack': 120, 'defense': 79, 'sp_atk': 95, 'sp_def': 79, 'speed': 70, 'id': 405, 'types': ['electric']}
+{'name': 'Budew', 'weight': u'12', 'generation': 4, 'hp': 40, 'attack': 30, 'defense': 35, 'sp_atk': 50, 'sp_def': 70, 'speed': 55, 'id': 406, 'types': ['poison', 'grass']}
+{'name': 'Roserade', 'weight': u'145', 'generation': 4, 'hp': 60, 'attack': 70, 'defense': 65, 'sp_atk': 125, 'sp_def': 105, 'speed': 90, 'id': 407, 'types': ['poison', 'grass']}
+{'name': 'Cranidos', 'weight': u'315', 'generation': 4, 'hp': 67, 'attack': 125, 'defense': 40, 'sp_atk': 30, 'sp_def': 30, 'speed': 58, 'id': 408, 'types': ['rock']}
+{'name': 'Rampardos', 'weight': u'1025', 'generation': 4, 'hp': 97, 'attack': 165, 'defense': 60, 'sp_atk': 65, 'sp_def': 50, 'speed': 58, 'id': 409, 'types': ['rock']}
+{'name': 'Shieldon', 'weight': u'570', 'generation': 4, 'hp': 30, 'attack': 42, 'defense': 118, 'sp_atk': 42, 'sp_def': 88, 'speed': 30, 'id': 410, 'types': ['rock', 'steel']}
+{'name': 'Bastiodon', 'weight': u'1495', 'generation': 4, 'hp': 60, 'attack': 52, 'defense': 168, 'sp_atk': 47, 'sp_def': 138, 'speed': 30, 'id': 411, 'types': ['rock', 'steel']}
+{'name': 'Burmy', 'weight': u'34', 'generation': 4, 'hp': 40, 'attack': 29, 'defense': 45, 'sp_atk': 29, 'sp_def': 45, 'speed': 36, 'id': 412, 'types': ['bug']}
+{'name': 'Wormadam-plant', 'weight': u'65', 'generation': 4, 'hp': 60, 'attack': 59, 'defense': 85, 'sp_atk': 79, 'sp_def': 105, 'speed': 36, 'id': 413, 'types': ['bug', 'grass']}
+{'name': 'Mothim', 'weight': u'233', 'generation': 4, 'hp': 70, 'attack': 94, 'defense': 50, 'sp_atk': 94, 'sp_def': 50, 'speed': 66, 'id': 414, 'types': ['flying', 'bug']}
+{'name': 'Combee', 'weight': u'55', 'generation': 4, 'hp': 30, 'attack': 30, 'defense': 42, 'sp_atk': 30, 'sp_def': 42, 'speed': 70, 'id': 415, 'types': ['flying', 'bug']}
+{'name': 'Vespiquen', 'weight': u'385', 'generation': 4, 'hp': 70, 'attack': 80, 'defense': 102, 'sp_atk': 80, 'sp_def': 102, 'speed': 40, 'id': 416, 'types': ['flying', 'bug']}
+{'name': 'Pachirisu', 'weight': u'39', 'generation': 4, 'hp': 60, 'attack': 45, 'defense': 70, 'sp_atk': 45, 'sp_def': 90, 'speed': 95, 'id': 417, 'types': ['electric']}
+{'name': 'Buizel', 'weight': u'295', 'generation': 4, 'hp': 55, 'attack': 65, 'defense': 35, 'sp_atk': 60, 'sp_def': 30, 'speed': 85, 'id': 418, 'types': ['water']}
+{'name': 'Floatzel', 'weight': u'335', 'generation': 4, 'hp': 85, 'attack': 105, 'defense': 55, 'sp_atk': 85, 'sp_def': 50, 'speed': 115, 'id': 419, 'types': ['water']}
+{'name': 'Cherubi', 'weight': u'33', 'generation': 4, 'hp': 45, 'attack': 35, 'defense': 45, 'sp_atk': 62, 'sp_def': 53, 'speed': 35, 'id': 420, 'types': ['grass']}
+{'name': 'Cherrim', 'weight': u'93', 'generation': 4, 'hp': 70, 'attack': 60, 'defense': 70, 'sp_atk': 87, 'sp_def': 78, 'speed': 85, 'id': 421, 'types': ['grass']}
+{'name': 'Shellos', 'weight': u'63', 'generation': 4, 'hp': 76, 'attack': 48, 'defense': 48, 'sp_atk': 57, 'sp_def': 62, 'speed': 34, 'id': 422, 'types': ['water']}
+{'name': 'Gastrodon', 'weight': u'299', 'generation': 4, 'hp': 111, 'attack': 83, 'defense': 68, 'sp_atk': 92, 'sp_def': 82, 'speed': 39, 'id': 423, 'types': ['ground', 'water']}
+{'name': 'Ambipom', 'weight': u'203', 'generation': 4, 'hp': 75, 'attack': 100, 'defense': 66, 'sp_atk': 60, 'sp_def': 66, 'speed': 115, 'id': 424, 'types': ['normal']}
+{'name': 'Drifloon', 'weight': u'12', 'generation': 4, 'hp': 90, 'attack': 50, 'defense': 34, 'sp_atk': 60, 'sp_def': 44, 'speed': 70, 'id': 425, 'types': ['flying', 'ghost']}
+{'name': 'Drifblim', 'weight': u'150', 'generation': 4, 'hp': 150, 'attack': 80, 'defense': 44, 'sp_atk': 90, 'sp_def': 54, 'speed': 80, 'id': 426, 'types': ['flying', 'ghost']}
+{'name': 'Buneary', 'weight': u'55', 'generation': 4, 'hp': 55, 'attack': 66, 'defense': 44, 'sp_atk': 44, 'sp_def': 56, 'speed': 85, 'id': 427, 'types': ['normal']}
+{'name': 'Lopunny', 'weight': u'333', 'generation': 4, 'hp': 65, 'attack': 76, 'defense': 84, 'sp_atk': 54, 'sp_def': 96, 'speed': 105, 'id': 428, 'types': ['normal']}
+{'name': 'Mismagius', 'weight': u'44', 'generation': 4, 'hp': 60, 'attack': 60, 'defense': 60, 'sp_atk': 105, 'sp_def': 105, 'speed': 105, 'id': 429, 'types': ['ghost']}
+{'name': 'Honchkrow', 'weight': u'273', 'generation': 4, 'hp': 100, 'attack': 125, 'defense': 52, 'sp_atk': 105, 'sp_def': 52, 'speed': 71, 'id': 430, 'types': ['flying', 'dark']}
+{'name': 'Glameow', 'weight': u'39', 'generation': 4, 'hp': 49, 'attack': 55, 'defense': 42, 'sp_atk': 42, 'sp_def': 37, 'speed': 85, 'id': 431, 'types': ['normal']}
+{'name': 'Purugly', 'weight': u'438', 'generation': 4, 'hp': 71, 'attack': 82, 'defense': 64, 'sp_atk': 64, 'sp_def': 59, 'speed': 112, 'id': 432, 'types': ['normal']}
+{'name': 'Chingling', 'weight': u'6', 'generation': 4, 'hp': 45, 'attack': 30, 'defense': 50, 'sp_atk': 65, 'sp_def': 50, 'speed': 45, 'id': 433, 'types': ['psychic']}
+{'name': 'Stunky', 'weight': u'192', 'generation': 4, 'hp': 63, 'attack': 63, 'defense': 47, 'sp_atk': 41, 'sp_def': 41, 'speed': 74, 'id': 434, 'types': ['poison', 'dark']}
+{'name': 'Skuntank', 'weight': u'380', 'generation': 4, 'hp': 103, 'attack': 93, 'defense': 67, 'sp_atk': 71, 'sp_def': 61, 'speed': 84, 'id': 435, 'types': ['poison', 'dark']}
+{'name': 'Bronzor', 'weight': u'605', 'generation': 4, 'hp': 57, 'attack': 24, 'defense': 86, 'sp_atk': 24, 'sp_def': 86, 'speed': 23, 'id': 436, 'types': ['steel', 'psychic']}
+{'name': 'Bronzong', 'weight': u'1870', 'generation': 4, 'hp': 67, 'attack': 89, 'defense': 116, 'sp_atk': 79, 'sp_def': 116, 'speed': 33, 'id': 437, 'types': ['steel', 'psychic']}
+{'name': 'Bonsly', 'weight': u'150', 'generation': 4, 'hp': 50, 'attack': 80, 'defense': 95, 'sp_atk': 10, 'sp_def': 45, 'speed': 10, 'id': 438, 'types': ['rock']}
+{'name': 'Mime-jr', 'weight': u'130', 'generation': 4, 'hp': 20, 'attack': 25, 'defense': 45, 'sp_atk': 70, 'sp_def': 90, 'speed': 60, 'id': 439, 'types': ['fairy', 'psychic']}
+{'name': 'Happiny', 'weight': u'244', 'generation': 4, 'hp': 100, 'attack': 5, 'defense': 5, 'sp_atk': 15, 'sp_def': 65, 'speed': 30, 'id': 440, 'types': ['normal']}
+{'name': 'Chatot', 'weight': u'19', 'generation': 4, 'hp': 76, 'attack': 65, 'defense': 45, 'sp_atk': 92, 'sp_def': 42, 'speed': 91, 'id': 441, 'types': ['normal', 'flying']}
+{'name': 'Spiritomb', 'weight': u'1080', 'generation': 4, 'hp': 50, 'attack': 92, 'defense': 108, 'sp_atk': 92, 'sp_def': 108, 'speed': 35, 'id': 442, 'types': ['ghost', 'dark']}
+{'name': 'Gible', 'weight': u'205', 'generation': 4, 'hp': 58, 'attack': 70, 'defense': 45, 'sp_atk': 40, 'sp_def': 45, 'speed': 42, 'id': 443, 'types': ['ground', 'dragon']}
+{'name': 'Gabite', 'weight': u'560', 'generation': 4, 'hp': 68, 'attack': 90, 'defense': 65, 'sp_atk': 50, 'sp_def': 55, 'speed': 82, 'id': 444, 'types': ['ground', 'dragon']}
+{'name': 'Garchomp', 'weight': u'950', 'generation': 4, 'hp': 108, 'attack': 130, 'defense': 95, 'sp_atk': 80, 'sp_def': 85, 'speed': 102, 'id': 445, 'types': ['ground', 'dragon']}
+{'name': 'Munchlax', 'weight': u'1050', 'generation': 4, 'hp': 135, 'attack': 85, 'defense': 40, 'sp_atk': 40, 'sp_def': 85, 'speed': 5, 'id': 446, 'types': ['normal']}
+{'name': 'Riolu', 'weight': u'202', 'generation': 4, 'hp': 40, 'attack': 70, 'defense': 40, 'sp_atk': 35, 'sp_def': 40, 'speed': 60, 'id': 447, 'types': ['fighting']}
+{'name': 'Lucario', 'weight': u'540', 'generation': 4, 'hp': 70, 'attack': 110, 'defense': 70, 'sp_atk': 115, 'sp_def': 70, 'speed': 90, 'id': 448, 'types': ['fighting', 'steel']}
+{'name': 'Hippopotas', 'weight': u'495', 'generation': 4, 'hp': 68, 'attack': 72, 'defense': 78, 'sp_atk': 38, 'sp_def': 42, 'speed': 32, 'id': 449, 'types': ['ground']}
+{'name': 'Hippowdon', 'weight': u'3000', 'generation': 4, 'hp': 108, 'attack': 112, 'defense': 118, 'sp_atk': 68, 'sp_def': 72, 'speed': 47, 'id': 450, 'types': ['ground']}
+{'name': 'Skorupi', 'weight': u'120', 'generation': 4, 'hp': 40, 'attack': 50, 'defense': 90, 'sp_atk': 30, 'sp_def': 55, 'speed': 65, 'id': 451, 'types': ['poison', 'bug']}
+{'name': 'Drapion', 'weight': u'615', 'generation': 4, 'hp': 70, 'attack': 90, 'defense': 110, 'sp_atk': 60, 'sp_def': 75, 'speed': 95, 'id': 452, 'types': ['poison', 'dark']}
+{'name': 'Croagunk', 'weight': u'230', 'generation': 4, 'hp': 48, 'attack': 61, 'defense': 40, 'sp_atk': 61, 'sp_def': 40, 'speed': 50, 'id': 453, 'types': ['fighting', 'poison']}
+{'name': 'Toxicroak', 'weight': u'444', 'generation': 4, 'hp': 83, 'attack': 106, 'defense': 65, 'sp_atk': 86, 'sp_def': 65, 'speed': 85, 'id': 454, 'types': ['fighting', 'poison']}
+{'name': 'Carnivine', 'weight': u'270', 'generation': 4, 'hp': 74, 'attack': 100, 'defense': 72, 'sp_atk': 90, 'sp_def': 72, 'speed': 46, 'id': 455, 'types': ['grass']}
+{'name': 'Finneon', 'weight': u'70', 'generation': 4, 'hp': 49, 'attack': 49, 'defense': 56, 'sp_atk': 49, 'sp_def': 61, 'speed': 66, 'id': 456, 'types': ['water']}
+{'name': 'Lumineon', 'weight': u'240', 'generation': 4, 'hp': 69, 'attack': 69, 'defense': 76, 'sp_atk': 69, 'sp_def': 86, 'speed': 91, 'id': 457, 'types': ['water']}
+{'name': 'Mantyke', 'weight': u'650', 'generation': 4, 'hp': 45, 'attack': 20, 'defense': 50, 'sp_atk': 60, 'sp_def': 120, 'speed': 50, 'id': 458, 'types': ['flying', 'water']}
+{'name': 'Snover', 'weight': u'505', 'generation': 4, 'hp': 60, 'attack': 62, 'defense': 50, 'sp_atk': 62, 'sp_def': 60, 'speed': 40, 'id': 459, 'types': ['grass', 'ice']}
+{'name': 'Abomasnow', 'weight': u'1355', 'generation': 4, 'hp': 90, 'attack': 92, 'defense': 75, 'sp_atk': 92, 'sp_def': 85, 'speed': 60, 'id': 460, 'types': ['grass', 'ice']}
+{'name': 'Weavile', 'weight': u'340', 'generation': 4, 'hp': 70, 'attack': 120, 'defense': 65, 'sp_atk': 45, 'sp_def': 85, 'speed': 125, 'id': 461, 'types': ['ice', 'dark']}
+{'name': 'Magnezone', 'weight': u'1800', 'generation': 4, 'hp': 70, 'attack': 70, 'defense': 115, 'sp_atk': 130, 'sp_def': 90, 'speed': 60, 'id': 462, 'types': ['steel', 'electric']}
+{'name': 'Lickilicky', 'weight': u'1400', 'generation': 4, 'hp': 110, 'attack': 85, 'defense': 95, 'sp_atk': 80, 'sp_def': 95, 'speed': 50, 'id': 463, 'types': ['normal']}
+{'name': 'Rhyperior', 'weight': u'2828', 'generation': 4, 'hp': 115, 'attack': 140, 'defense': 130, 'sp_atk': 55, 'sp_def': 55, 'speed': 40, 'id': 464, 'types': ['ground', 'rock']}
+{'name': 'Tangrowth', 'weight': u'1286', 'generation': 4, 'hp': 100, 'attack': 100, 'defense': 125, 'sp_atk': 110, 'sp_def': 50, 'speed': 50, 'id': 465, 'types': ['grass']}
+{'name': 'Electivire', 'weight': u'1386', 'generation': 4, 'hp': 75, 'attack': 123, 'defense': 67, 'sp_atk': 95, 'sp_def': 85, 'speed': 95, 'id': 466, 'types': ['electric']}
+{'name': 'Magmortar', 'weight': u'680', 'generation': 4, 'hp': 75, 'attack': 95, 'defense': 67, 'sp_atk': 125, 'sp_def': 95, 'speed': 83, 'id': 467, 'types': ['fire']}
+{'name': 'Togekiss', 'weight': u'380', 'generation': 4, 'hp': 85, 'attack': 50, 'defense': 95, 'sp_atk': 120, 'sp_def': 115, 'speed': 80, 'id': 468, 'types': ['flying', 'fairy']}
+{'name': 'Yanmega', 'weight': u'515', 'generation': 4, 'hp': 86, 'attack': 76, 'defense': 86, 'sp_atk': 116, 'sp_def': 56, 'speed': 95, 'id': 469, 'types': ['flying', 'bug']}
+{'name': 'Leafeon', 'weight': u'255', 'generation': 4, 'hp': 65, 'attack': 110, 'defense': 130, 'sp_atk': 60, 'sp_def': 65, 'speed': 95, 'id': 470, 'types': ['grass']}
+{'name': 'Glaceon', 'weight': u'259', 'generation': 4, 'hp': 65, 'attack': 60, 'defense': 110, 'sp_atk': 130, 'sp_def': 95, 'speed': 65, 'id': 471, 'types': ['ice']}
+{'name': 'Gliscor', 'weight': u'425', 'generation': 4, 'hp': 75, 'attack': 95, 'defense': 125, 'sp_atk': 45, 'sp_def': 75, 'speed': 95, 'id': 472, 'types': ['flying', 'ground']}
+{'name': 'Mamoswine', 'weight': u'2910', 'generation': 4, 'hp': 110, 'attack': 130, 'defense': 80, 'sp_atk': 70, 'sp_def': 60, 'speed': 80, 'id': 473, 'types': ['ground', 'ice']}
+{'name': 'Porygon-z', 'weight': u'340', 'generation': 4, 'hp': 85, 'attack': 80, 'defense': 70, 'sp_atk': 135, 'sp_def': 75, 'speed': 90, 'id': 474, 'types': ['normal']}
+{'name': 'Gallade', 'weight': u'520', 'generation': 4, 'hp': 68, 'attack': 125, 'defense': 65, 'sp_atk': 65, 'sp_def': 115, 'speed': 80, 'id': 475, 'types': ['fighting', 'psychic']}
+{'name': 'Probopass', 'weight': u'3400', 'generation': 4, 'hp': 60, 'attack': 55, 'defense': 145, 'sp_atk': 75, 'sp_def': 150, 'speed': 40, 'id': 476, 'types': ['rock', 'steel']}
+{'name': 'Dusknoir', 'weight': u'1066', 'generation': 4, 'hp': 45, 'attack': 100, 'defense': 135, 'sp_atk': 65, 'sp_def': 135, 'speed': 45, 'id': 477, 'types': ['ghost']}
+{'name': 'Froslass', 'weight': u'266', 'generation': 4, 'hp': 70, 'attack': 80, 'defense': 70, 'sp_atk': 80, 'sp_def': 70, 'speed': 110, 'id': 478, 'types': ['ghost', 'ice']}
+{'name': 'Rotom', 'weight': u'3', 'generation': 4, 'hp': 50, 'attack': 50, 'defense': 77, 'sp_atk': 95, 'sp_def': 77, 'speed': 91, 'id': 479, 'types': ['ghost', 'electric']}
+{'name': 'Uxie', 'weight': u'3', 'generation': 4, 'hp': 75, 'attack': 75, 'defense': 130, 'sp_atk': 75, 'sp_def': 130, 'speed': 95, 'id': 480, 'types': ['psychic']}
+{'name': 'Mesprit', 'weight': u'3', 'generation': 4, 'hp': 80, 'attack': 105, 'defense': 105, 'sp_atk': 105, 'sp_def': 105, 'speed': 80, 'id': 481, 'types': ['psychic']}
+{'name': 'Azelf', 'weight': u'3', 'generation': 4, 'hp': 75, 'attack': 125, 'defense': 70, 'sp_atk': 125, 'sp_def': 70, 'speed': 115, 'id': 482, 'types': ['psychic']}
+{'name': 'Dialga', 'weight': u'6830', 'generation': 4, 'hp': 100, 'attack': 120, 'defense': 120, 'sp_atk': 150, 'sp_def': 100, 'speed': 90, 'id': 483, 'types': ['steel', 'dragon']}
+{'name': 'Palkia', 'weight': u'3360', 'generation': 4, 'hp': 90, 'attack': 120, 'defense': 100, 'sp_atk': 150, 'sp_def': 120, 'speed': 100, 'id': 484, 'types': ['water', 'dragon']}
+{'name': 'Heatran', 'weight': u'4300', 'generation': 4, 'hp': 91, 'attack': 90, 'defense': 106, 'sp_atk': 130, 'sp_def': 106, 'speed': 77, 'id': 485, 'types': ['steel', 'fire']}
+{'name': 'Regigigas', 'weight': u'4200', 'generation': 4, 'hp': 110, 'attack': 160, 'defense': 110, 'sp_atk': 80, 'sp_def': 110, 'speed': 100, 'id': 486, 'types': ['normal']}
+{'name': 'Giratina-altered', 'weight': u'7500', 'generation': 4, 'hp': 150, 'attack': 100, 'defense': 120, 'sp_atk': 100, 'sp_def': 120, 'speed': 90, 'id': 487, 'types': ['ghost', 'dragon']}
+{'name': 'Cresselia', 'weight': u'856', 'generation': 4, 'hp': 120, 'attack': 70, 'defense': 120, 'sp_atk': 75, 'sp_def': 130, 'speed': 85, 'id': 488, 'types': ['psychic']}
+{'name': 'Phione', 'weight': u'31', 'generation': 4, 'hp': 80, 'attack': 80, 'defense': 80, 'sp_atk': 80, 'sp_def': 80, 'speed': 80, 'id': 489, 'types': ['water']}
+{'name': 'Manaphy', 'weight': u'14', 'generation': 4, 'hp': 100, 'attack': 100, 'defense': 100, 'sp_atk': 100, 'sp_def': 100, 'speed': 100, 'id': 490, 'types': ['water']}
+{'name': 'Darkrai', 'weight': u'505', 'generation': 4, 'hp': 70, 'attack': 90, 'defense': 90, 'sp_atk': 135, 'sp_def': 90, 'speed': 125, 'id': 491, 'types': ['dark']}
+{'name': 'Shaymin-land', 'weight': u'21', 'generation': 4, 'hp': 100, 'attack': 100, 'defense': 100, 'sp_atk': 100, 'sp_def': 100, 'speed': 100, 'id': 492, 'types': ['grass']}
+{'name': 'Arceus', 'weight': u'3200', 'generation': 4, 'hp': 120, 'attack': 120, 'defense': 120, 'sp_atk': 120, 'sp_def': 120, 'speed': 120, 'id': 493, 'types': ['normal']}
+{'name': 'Victini', 'weight': u'40', 'generation': 5, 'hp': 100, 'attack': 100, 'defense': 100, 'sp_atk': 100, 'sp_def': 100, 'speed': 100, 'id': 494, 'types': ['fire', 'psychic']}
+{'name': 'Snivy', 'weight': u'81', 'generation': 5, 'hp': 45, 'attack': 45, 'defense': 55, 'sp_atk': 45, 'sp_def': 55, 'speed': 63, 'id': 495, 'types': ['grass']}
+{'name': 'Servine', 'weight': u'160', 'generation': 5, 'hp': 60, 'attack': 60, 'defense': 75, 'sp_atk': 60, 'sp_def': 75, 'speed': 83, 'id': 496, 'types': ['grass']}
+{'name': 'Serperior', 'weight': u'630', 'generation': 5, 'hp': 75, 'attack': 75, 'defense': 95, 'sp_atk': 75, 'sp_def': 95, 'speed': 113, 'id': 497, 'types': ['grass']}
+{'name': 'Tepig', 'weight': u'99', 'generation': 5, 'hp': 65, 'attack': 63, 'defense': 45, 'sp_atk': 45, 'sp_def': 45, 'speed': 45, 'id': 498, 'types': ['fire']}
+{'name': 'Pignite', 'weight': u'555', 'generation': 5, 'hp': 90, 'attack': 93, 'defense': 55, 'sp_atk': 70, 'sp_def': 55, 'speed': 55, 'id': 499, 'types': ['fighting', 'fire']}
+{'name': 'Emboar', 'weight': u'1500', 'generation': 5, 'hp': 110, 'attack': 123, 'defense': 65, 'sp_atk': 100, 'sp_def': 65, 'speed': 65, 'id': 500, 'types': ['fighting', 'fire']}
+{'name': 'Oshawott', 'weight': u'59', 'generation': 5, 'hp': 55, 'attack': 55, 'defense': 45, 'sp_atk': 63, 'sp_def': 45, 'speed': 45, 'id': 501, 'types': ['water']}
+{'name': 'Dewott', 'weight': u'245', 'generation': 5, 'hp': 75, 'attack': 75, 'defense': 60, 'sp_atk': 83, 'sp_def': 60, 'speed': 60, 'id': 502, 'types': ['water']}
+{'name': 'Samurott', 'weight': u'946', 'generation': 5, 'hp': 95, 'attack': 100, 'defense': 85, 'sp_atk': 108, 'sp_def': 70, 'speed': 70, 'id': 503, 'types': ['water']}
+{'name': 'Patrat', 'weight': u'116', 'generation': 5, 'hp': 45, 'attack': 55, 'defense': 39, 'sp_atk': 35, 'sp_def': 39, 'speed': 42, 'id': 504, 'types': ['normal']}
+{'name': 'Watchog', 'weight': u'270', 'generation': 5, 'hp': 60, 'attack': 85, 'defense': 69, 'sp_atk': 60, 'sp_def': 69, 'speed': 77, 'id': 505, 'types': ['normal']}
+{'name': 'Lillipup', 'weight': u'41', 'generation': 5, 'hp': 45, 'attack': 60, 'defense': 45, 'sp_atk': 25, 'sp_def': 45, 'speed': 55, 'id': 506, 'types': ['normal']}
+{'name': 'Herdier', 'weight': u'147', 'generation': 5, 'hp': 65, 'attack': 80, 'defense': 65, 'sp_atk': 35, 'sp_def': 65, 'speed': 60, 'id': 507, 'types': ['normal']}
+{'name': 'Stoutland', 'weight': u'610', 'generation': 5, 'hp': 85, 'attack': 110, 'defense': 90, 'sp_atk': 45, 'sp_def': 90, 'speed': 80, 'id': 508, 'types': ['normal']}
+{'name': 'Purrloin', 'weight': u'101', 'generation': 5, 'hp': 41, 'attack': 50, 'defense': 37, 'sp_atk': 50, 'sp_def': 37, 'speed': 66, 'id': 509, 'types': ['dark']}
+{'name': 'Liepard', 'weight': u'375', 'generation': 5, 'hp': 64, 'attack': 88, 'defense': 50, 'sp_atk': 88, 'sp_def': 50, 'speed': 106, 'id': 510, 'types': ['dark']}
+{'name': 'Pansage', 'weight': u'105', 'generation': 5, 'hp': 50, 'attack': 53, 'defense': 48, 'sp_atk': 53, 'sp_def': 48, 'speed': 64, 'id': 511, 'types': ['grass']}
+{'name': 'Simisage', 'weight': u'305', 'generation': 5, 'hp': 75, 'attack': 98, 'defense': 63, 'sp_atk': 98, 'sp_def': 63, 'speed': 101, 'id': 512, 'types': ['grass']}
+{'name': 'Pansear', 'weight': u'110', 'generation': 5, 'hp': 50, 'attack': 53, 'defense': 48, 'sp_atk': 53, 'sp_def': 48, 'speed': 64, 'id': 513, 'types': ['fire']}
+{'name': 'Simisear', 'weight': u'280', 'generation': 5, 'hp': 75, 'attack': 98, 'defense': 63, 'sp_atk': 98, 'sp_def': 63, 'speed': 101, 'id': 514, 'types': ['fire']}
+{'name': 'Panpour', 'weight': u'135', 'generation': 5, 'hp': 50, 'attack': 53, 'defense': 48, 'sp_atk': 53, 'sp_def': 48, 'speed': 64, 'id': 515, 'types': ['water']}
+{'name': 'Simipour', 'weight': u'290', 'generation': 5, 'hp': 75, 'attack': 98, 'defense': 63, 'sp_atk': 98, 'sp_def': 63, 'speed': 101, 'id': 516, 'types': ['water']}
+{'name': 'Munna', 'weight': u'233', 'generation': 5, 'hp': 76, 'attack': 25, 'defense': 45, 'sp_atk': 67, 'sp_def': 55, 'speed': 24, 'id': 517, 'types': ['psychic']}
+{'name': 'Musharna', 'weight': u'605', 'generation': 5, 'hp': 116, 'attack': 55, 'defense': 85, 'sp_atk': 107, 'sp_def': 95, 'speed': 29, 'id': 518, 'types': ['psychic']}
+{'name': 'Pidove', 'weight': u'21', 'generation': 5, 'hp': 50, 'attack': 55, 'defense': 50, 'sp_atk': 36, 'sp_def': 30, 'speed': 43, 'id': 519, 'types': ['normal', 'flying']}
+{'name': 'Tranquill', 'weight': u'150', 'generation': 5, 'hp': 62, 'attack': 77, 'defense': 62, 'sp_atk': 50, 'sp_def': 42, 'speed': 65, 'id': 520, 'types': ['normal', 'flying']}
+{'name': 'Unfezant', 'weight': u'290', 'generation': 5, 'hp': 80, 'attack': 115, 'defense': 80, 'sp_atk': 65, 'sp_def': 55, 'speed': 93, 'id': 521, 'types': ['normal', 'flying']}
+{'name': 'Blitzle', 'weight': u'298', 'generation': 5, 'hp': 45, 'attack': 60, 'defense': 32, 'sp_atk': 50, 'sp_def': 32, 'speed': 76, 'id': 522, 'types': ['electric']}
+{'name': 'Zebstrika', 'weight': u'795', 'generation': 5, 'hp': 75, 'attack': 100, 'defense': 63, 'sp_atk': 80, 'sp_def': 63, 'speed': 116, 'id': 523, 'types': ['electric']}
+{'name': 'Roggenrola', 'weight': u'180', 'generation': 5, 'hp': 55, 'attack': 75, 'defense': 85, 'sp_atk': 25, 'sp_def': 25, 'speed': 15, 'id': 524, 'types': ['rock']}
+{'name': 'Boldore', 'weight': u'1020', 'generation': 5, 'hp': 70, 'attack': 105, 'defense': 105, 'sp_atk': 50, 'sp_def': 40, 'speed': 20, 'id': 525, 'types': ['rock']}
+{'name': 'Gigalith', 'weight': u'2600', 'generation': 5, 'hp': 85, 'attack': 135, 'defense': 130, 'sp_atk': 60, 'sp_def': 80, 'speed': 25, 'id': 526, 'types': ['rock']}
+{'name': 'Woobat', 'weight': u'21', 'generation': 5, 'hp': 55, 'attack': 45, 'defense': 43, 'sp_atk': 55, 'sp_def': 43, 'speed': 72, 'id': 527, 'types': ['flying', 'psychic']}
+{'name': 'Swoobat', 'weight': u'105', 'generation': 5, 'hp': 67, 'attack': 57, 'defense': 55, 'sp_atk': 77, 'sp_def': 55, 'speed': 114, 'id': 528, 'types': ['flying', 'psychic']}
+{'name': 'Drilbur', 'weight': u'85', 'generation': 5, 'hp': 60, 'attack': 85, 'defense': 40, 'sp_atk': 30, 'sp_def': 45, 'speed': 68, 'id': 529, 'types': ['ground']}
+{'name': 'Excadrill', 'weight': u'404', 'generation': 5, 'hp': 110, 'attack': 135, 'defense': 60, 'sp_atk': 50, 'sp_def': 65, 'speed': 88, 'id': 530, 'types': ['ground', 'steel']}
+{'name': 'Audino', 'weight': u'310', 'generation': 5, 'hp': 103, 'attack': 60, 'defense': 86, 'sp_atk': 60, 'sp_def': 86, 'speed': 50, 'id': 531, 'types': ['normal']}
+{'name': 'Timburr', 'weight': u'125', 'generation': 5, 'hp': 75, 'attack': 80, 'defense': 55, 'sp_atk': 25, 'sp_def': 35, 'speed': 35, 'id': 532, 'types': ['fighting']}
+{'name': 'Gurdurr', 'weight': u'400', 'generation': 5, 'hp': 85, 'attack': 105, 'defense': 85, 'sp_atk': 40, 'sp_def': 50, 'speed': 40, 'id': 533, 'types': ['fighting']}
+{'name': 'Conkeldurr', 'weight': u'870', 'generation': 5, 'hp': 105, 'attack': 140, 'defense': 95, 'sp_atk': 55, 'sp_def': 65, 'speed': 45, 'id': 534, 'types': ['fighting']}
+{'name': 'Tympole', 'weight': u'45', 'generation': 5, 'hp': 50, 'attack': 50, 'defense': 40, 'sp_atk': 50, 'sp_def': 40, 'speed': 64, 'id': 535, 'types': ['water']}
+{'name': 'Palpitoad', 'weight': u'170', 'generation': 5, 'hp': 75, 'attack': 65, 'defense': 55, 'sp_atk': 65, 'sp_def': 55, 'speed': 69, 'id': 536, 'types': ['ground', 'water']}
+{'name': 'Seismitoad', 'weight': u'620', 'generation': 5, 'hp': 105, 'attack': 95, 'defense': 75, 'sp_atk': 85, 'sp_def': 75, 'speed': 74, 'id': 537, 'types': ['ground', 'water']}
+{'name': 'Throh', 'weight': u'555', 'generation': 5, 'hp': 120, 'attack': 100, 'defense': 85, 'sp_atk': 30, 'sp_def': 85, 'speed': 45, 'id': 538, 'types': ['fighting']}
+{'name': 'Sawk', 'weight': u'510', 'generation': 5, 'hp': 75, 'attack': 125, 'defense': 75, 'sp_atk': 30, 'sp_def': 75, 'speed': 85, 'id': 539, 'types': ['fighting']}
+{'name': 'Sewaddle', 'weight': u'25', 'generation': 5, 'hp': 45, 'attack': 53, 'defense': 70, 'sp_atk': 40, 'sp_def': 60, 'speed': 42, 'id': 540, 'types': ['bug', 'grass']}
+{'name': 'Swadloon', 'weight': u'73', 'generation': 5, 'hp': 55, 'attack': 63, 'defense': 90, 'sp_atk': 50, 'sp_def': 80, 'speed': 42, 'id': 541, 'types': ['bug', 'grass']}
+{'name': 'Leavanny', 'weight': u'205', 'generation': 5, 'hp': 75, 'attack': 103, 'defense': 80, 'sp_atk': 70, 'sp_def': 80, 'speed': 92, 'id': 542, 'types': ['bug', 'grass']}
+{'name': 'Venipede', 'weight': u'53', 'generation': 5, 'hp': 30, 'attack': 45, 'defense': 59, 'sp_atk': 30, 'sp_def': 39, 'speed': 57, 'id': 543, 'types': ['poison', 'bug']}
+{'name': 'Whirlipede', 'weight': u'585', 'generation': 5, 'hp': 40, 'attack': 55, 'defense': 99, 'sp_atk': 40, 'sp_def': 79, 'speed': 47, 'id': 544, 'types': ['poison', 'bug']}
+{'name': 'Scolipede', 'weight': u'2005', 'generation': 5, 'hp': 60, 'attack': 100, 'defense': 89, 'sp_atk': 55, 'sp_def': 69, 'speed': 112, 'id': 545, 'types': ['poison', 'bug']}
+{'name': 'Cottonee', 'weight': u'6', 'generation': 5, 'hp': 40, 'attack': 27, 'defense': 60, 'sp_atk': 37, 'sp_def': 50, 'speed': 66, 'id': 546, 'types': ['grass', 'fairy']}
+{'name': 'Whimsicott', 'weight': u'66', 'generation': 5, 'hp': 60, 'attack': 67, 'defense': 85, 'sp_atk': 77, 'sp_def': 75, 'speed': 116, 'id': 547, 'types': ['grass', 'fairy']}
+{'name': 'Petilil', 'weight': u'66', 'generation': 5, 'hp': 45, 'attack': 35, 'defense': 50, 'sp_atk': 70, 'sp_def': 50, 'speed': 30, 'id': 548, 'types': ['grass']}
+{'name': 'Lilligant', 'weight': u'163', 'generation': 5, 'hp': 70, 'attack': 60, 'defense': 75, 'sp_atk': 110, 'sp_def': 75, 'speed': 90, 'id': 549, 'types': ['grass']}
+{'name': 'Basculin-red-striped', 'weight': u'180', 'generation': 5, 'hp': 70, 'attack': 92, 'defense': 65, 'sp_atk': 80, 'sp_def': 55, 'speed': 98, 'id': 550, 'types': ['water']}
+{'name': 'Sandile', 'weight': u'152', 'generation': 5, 'hp': 50, 'attack': 72, 'defense': 35, 'sp_atk': 35, 'sp_def': 35, 'speed': 65, 'id': 551, 'types': ['ground', 'dark']}
+{'name': 'Krokorok', 'weight': u'334', 'generation': 5, 'hp': 60, 'attack': 82, 'defense': 45, 'sp_atk': 45, 'sp_def': 45, 'speed': 74, 'id': 552, 'types': ['ground', 'dark']}
+{'name': 'Krookodile', 'weight': u'963', 'generation': 5, 'hp': 95, 'attack': 117, 'defense': 80, 'sp_atk': 65, 'sp_def': 70, 'speed': 92, 'id': 553, 'types': ['ground', 'dark']}
+{'name': 'Darumaka', 'weight': u'375', 'generation': 5, 'hp': 70, 'attack': 90, 'defense': 45, 'sp_atk': 15, 'sp_def': 45, 'speed': 50, 'id': 554, 'types': ['fire']}
+{'name': 'Darmanitan-standard', 'weight': u'929', 'generation': 5, 'hp': 105, 'attack': 140, 'defense': 55, 'sp_atk': 30, 'sp_def': 55, 'speed': 95, 'id': 555, 'types': ['fire']}
+{'name': 'Maractus', 'weight': u'280', 'generation': 5, 'hp': 75, 'attack': 86, 'defense': 67, 'sp_atk': 106, 'sp_def': 67, 'speed': 60, 'id': 556, 'types': ['grass']}
+{'name': 'Dwebble', 'weight': u'145', 'generation': 5, 'hp': 50, 'attack': 65, 'defense': 85, 'sp_atk': 35, 'sp_def': 35, 'speed': 55, 'id': 557, 'types': ['rock', 'bug']}
+{'name': 'Crustle', 'weight': u'2000', 'generation': 5, 'hp': 70, 'attack': 95, 'defense': 125, 'sp_atk': 65, 'sp_def': 75, 'speed': 45, 'id': 558, 'types': ['rock', 'bug']}
+{'name': 'Scraggy', 'weight': u'118', 'generation': 5, 'hp': 50, 'attack': 75, 'defense': 70, 'sp_atk': 35, 'sp_def': 70, 'speed': 48, 'id': 559, 'types': ['fighting', 'dark']}
+{'name': 'Scrafty', 'weight': u'300', 'generation': 5, 'hp': 65, 'attack': 90, 'defense': 115, 'sp_atk': 45, 'sp_def': 115, 'speed': 58, 'id': 560, 'types': ['fighting', 'dark']}
+{'name': 'Sigilyph', 'weight': u'140', 'generation': 5, 'hp': 72, 'attack': 58, 'defense': 80, 'sp_atk': 103, 'sp_def': 80, 'speed': 97, 'id': 561, 'types': ['flying', 'psychic']}
+{'name': 'Yamask', 'weight': u'15', 'generation': 5, 'hp': 38, 'attack': 30, 'defense': 85, 'sp_atk': 55, 'sp_def': 65, 'speed': 30, 'id': 562, 'types': ['ghost']}
+{'name': 'Cofagrigus', 'weight': u'765', 'generation': 5, 'hp': 58, 'attack': 50, 'defense': 145, 'sp_atk': 95, 'sp_def': 105, 'speed': 30, 'id': 563, 'types': ['ghost']}
+{'name': 'Tirtouga', 'weight': u'165', 'generation': 5, 'hp': 54, 'attack': 78, 'defense': 103, 'sp_atk': 53, 'sp_def': 45, 'speed': 22, 'id': 564, 'types': ['rock', 'water']}
+{'name': 'Carracosta', 'weight': u'810', 'generation': 5, 'hp': 74, 'attack': 108, 'defense': 133, 'sp_atk': 83, 'sp_def': 65, 'speed': 32, 'id': 565, 'types': ['rock', 'water']}
+{'name': 'Archen', 'weight': u'95', 'generation': 5, 'hp': 55, 'attack': 112, 'defense': 45, 'sp_atk': 74, 'sp_def': 45, 'speed': 70, 'id': 566, 'types': ['flying', 'rock']}
+{'name': 'Archeops', 'weight': u'320', 'generation': 5, 'hp': 75, 'attack': 140, 'defense': 65, 'sp_atk': 112, 'sp_def': 65, 'speed': 110, 'id': 567, 'types': ['flying', 'rock']}
+{'name': 'Trubbish', 'weight': u'310', 'generation': 5, 'hp': 50, 'attack': 50, 'defense': 62, 'sp_atk': 40, 'sp_def': 62, 'speed': 65, 'id': 568, 'types': ['poison']}
+{'name': 'Garbodor', 'weight': u'1073', 'generation': 5, 'hp': 80, 'attack': 95, 'defense': 82, 'sp_atk': 60, 'sp_def': 82, 'speed': 75, 'id': 569, 'types': ['poison']}
+{'name': 'Zorua', 'weight': u'125', 'generation': 5, 'hp': 40, 'attack': 65, 'defense': 40, 'sp_atk': 80, 'sp_def': 40, 'speed': 65, 'id': 570, 'types': ['dark']}
+{'name': 'Zoroark', 'weight': u'811', 'generation': 5, 'hp': 60, 'attack': 105, 'defense': 60, 'sp_atk': 120, 'sp_def': 60, 'speed': 105, 'id': 571, 'types': ['dark']}
+{'name': 'Minccino', 'weight': u'58', 'generation': 5, 'hp': 55, 'attack': 50, 'defense': 40, 'sp_atk': 40, 'sp_def': 40, 'speed': 75, 'id': 572, 'types': ['normal']}
+{'name': 'Cinccino', 'weight': u'75', 'generation': 5, 'hp': 75, 'attack': 95, 'defense': 60, 'sp_atk': 65, 'sp_def': 60, 'speed': 115, 'id': 573, 'types': ['normal']}
+{'name': 'Gothita', 'weight': u'58', 'generation': 5, 'hp': 45, 'attack': 30, 'defense': 50, 'sp_atk': 55, 'sp_def': 65, 'speed': 45, 'id': 574, 'types': ['psychic']}
+{'name': 'Gothorita', 'weight': u'180', 'generation': 5, 'hp': 60, 'attack': 45, 'defense': 70, 'sp_atk': 75, 'sp_def': 85, 'speed': 55, 'id': 575, 'types': ['psychic']}
+{'name': 'Gothitelle', 'weight': u'440', 'generation': 5, 'hp': 70, 'attack': 55, 'defense': 95, 'sp_atk': 95, 'sp_def': 110, 'speed': 65, 'id': 576, 'types': ['psychic']}
+{'name': 'Solosis', 'weight': u'10', 'generation': 5, 'hp': 45, 'attack': 30, 'defense': 40, 'sp_atk': 105, 'sp_def': 50, 'speed': 20, 'id': 577, 'types': ['psychic']}
+{'name': 'Duosion', 'weight': u'80', 'generation': 5, 'hp': 65, 'attack': 40, 'defense': 50, 'sp_atk': 125, 'sp_def': 60, 'speed': 30, 'id': 578, 'types': ['psychic']}
+{'name': 'Reuniclus', 'weight': u'201', 'generation': 5, 'hp': 110, 'attack': 65, 'defense': 75, 'sp_atk': 125, 'sp_def': 85, 'speed': 30, 'id': 579, 'types': ['psychic']}
+{'name': 'Ducklett', 'weight': u'55', 'generation': 5, 'hp': 62, 'attack': 44, 'defense': 50, 'sp_atk': 44, 'sp_def': 50, 'speed': 55, 'id': 580, 'types': ['flying', 'water']}
+{'name': 'Swanna', 'weight': u'242', 'generation': 5, 'hp': 75, 'attack': 87, 'defense': 63, 'sp_atk': 87, 'sp_def': 63, 'speed': 98, 'id': 581, 'types': ['flying', 'water']}
+{'name': 'Vanillite', 'weight': u'57', 'generation': 5, 'hp': 36, 'attack': 50, 'defense': 50, 'sp_atk': 65, 'sp_def': 60, 'speed': 44, 'id': 582, 'types': ['ice']}
+{'name': 'Vanillish', 'weight': u'410', 'generation': 5, 'hp': 51, 'attack': 65, 'defense': 65, 'sp_atk': 80, 'sp_def': 75, 'speed': 59, 'id': 583, 'types': ['ice']}
+{'name': 'Vanilluxe', 'weight': u'575', 'generation': 5, 'hp': 71, 'attack': 95, 'defense': 85, 'sp_atk': 110, 'sp_def': 95, 'speed': 79, 'id': 584, 'types': ['ice']}
+{'name': 'Deerling', 'weight': u'195', 'generation': 5, 'hp': 60, 'attack': 60, 'defense': 50, 'sp_atk': 40, 'sp_def': 50, 'speed': 75, 'id': 585, 'types': ['normal', 'grass']}
+{'name': 'Sawsbuck', 'weight': u'925', 'generation': 5, 'hp': 80, 'attack': 100, 'defense': 70, 'sp_atk': 60, 'sp_def': 70, 'speed': 95, 'id': 586, 'types': ['normal', 'grass']}
+{'name': 'Emolga', 'weight': u'50', 'generation': 5, 'hp': 55, 'attack': 75, 'defense': 60, 'sp_atk': 75, 'sp_def': 60, 'speed': 103, 'id': 587, 'types': ['flying', 'electric']}
+{'name': 'Karrablast', 'weight': u'59', 'generation': 5, 'hp': 50, 'attack': 75, 'defense': 45, 'sp_atk': 40, 'sp_def': 45, 'speed': 60, 'id': 588, 'types': ['bug']}
+{'name': 'Escavalier', 'weight': u'330', 'generation': 5, 'hp': 70, 'attack': 135, 'defense': 105, 'sp_atk': 60, 'sp_def': 105, 'speed': 20, 'id': 589, 'types': ['bug', 'steel']}
+{'name': 'Foongus', 'weight': u'10', 'generation': 5, 'hp': 69, 'attack': 55, 'defense': 45, 'sp_atk': 55, 'sp_def': 55, 'speed': 15, 'id': 590, 'types': ['poison', 'grass']}
+{'name': 'Amoonguss', 'weight': u'105', 'generation': 5, 'hp': 114, 'attack': 85, 'defense': 70, 'sp_atk': 85, 'sp_def': 80, 'speed': 30, 'id': 591, 'types': ['poison', 'grass']}
+{'name': 'Frillish', 'weight': u'330', 'generation': 5, 'hp': 55, 'attack': 40, 'defense': 50, 'sp_atk': 65, 'sp_def': 85, 'speed': 40, 'id': 592, 'types': ['ghost', 'water']}
+{'name': 'Jellicent', 'weight': u'1350', 'generation': 5, 'hp': 100, 'attack': 60, 'defense': 70, 'sp_atk': 85, 'sp_def': 105, 'speed': 60, 'id': 593, 'types': ['ghost', 'water']}
+{'name': 'Alomomola', 'weight': u'316', 'generation': 5, 'hp': 165, 'attack': 75, 'defense': 80, 'sp_atk': 40, 'sp_def': 45, 'speed': 65, 'id': 594, 'types': ['water']}
+{'name': 'Joltik', 'weight': u'6', 'generation': 5, 'hp': 50, 'attack': 47, 'defense': 50, 'sp_atk': 57, 'sp_def': 50, 'speed': 65, 'id': 595, 'types': ['bug', 'electric']}
+{'name': 'Galvantula', 'weight': u'143', 'generation': 5, 'hp': 70, 'attack': 77, 'defense': 60, 'sp_atk': 97, 'sp_def': 60, 'speed': 108, 'id': 596, 'types': ['bug', 'electric']}
+{'name': 'Ferroseed', 'weight': u'188', 'generation': 5, 'hp': 44, 'attack': 50, 'defense': 91, 'sp_atk': 24, 'sp_def': 86, 'speed': 10, 'id': 597, 'types': ['steel', 'grass']}
+{'name': 'Ferrothorn', 'weight': u'1100', 'generation': 5, 'hp': 74, 'attack': 94, 'defense': 131, 'sp_atk': 54, 'sp_def': 116, 'speed': 20, 'id': 598, 'types': ['steel', 'grass']}
+{'name': 'Klink', 'weight': u'210', 'generation': 5, 'hp': 40, 'attack': 55, 'defense': 70, 'sp_atk': 45, 'sp_def': 60, 'speed': 30, 'id': 599, 'types': ['steel']}
+{'name': 'Klang', 'weight': u'510', 'generation': 5, 'hp': 60, 'attack': 80, 'defense': 95, 'sp_atk': 70, 'sp_def': 85, 'speed': 50, 'id': 600, 'types': ['steel']}
+{'name': 'Klinklang', 'weight': u'810', 'generation': 5, 'hp': 60, 'attack': 100, 'defense': 115, 'sp_atk': 70, 'sp_def': 85, 'speed': 90, 'id': 601, 'types': ['steel']}
+{'name': 'Tynamo', 'weight': u'3', 'generation': 5, 'hp': 35, 'attack': 55, 'defense': 40, 'sp_atk': 45, 'sp_def': 40, 'speed': 60, 'id': 602, 'types': ['electric']}
+{'name': 'Eelektrik', 'weight': u'220', 'generation': 5, 'hp': 65, 'attack': 85, 'defense': 70, 'sp_atk': 75, 'sp_def': 70, 'speed': 40, 'id': 603, 'types': ['electric']}
+{'name': 'Eelektross', 'weight': u'805', 'generation': 5, 'hp': 85, 'attack': 115, 'defense': 80, 'sp_atk': 105, 'sp_def': 80, 'speed': 50, 'id': 604, 'types': ['electric']}
+{'name': 'Elgyem', 'weight': u'90', 'generation': 5, 'hp': 55, 'attack': 55, 'defense': 55, 'sp_atk': 85, 'sp_def': 55, 'speed': 30, 'id': 605, 'types': ['psychic']}
+{'name': 'Beheeyem', 'weight': u'345', 'generation': 5, 'hp': 75, 'attack': 75, 'defense': 75, 'sp_atk': 125, 'sp_def': 95, 'speed': 40, 'id': 606, 'types': ['psychic']}
+{'name': 'Litwick', 'weight': u'31', 'generation': 5, 'hp': 50, 'attack': 30, 'defense': 55, 'sp_atk': 65, 'sp_def': 55, 'speed': 20, 'id': 607, 'types': ['ghost', 'fire']}
+{'name': 'Lampent', 'weight': u'130', 'generation': 5, 'hp': 60, 'attack': 40, 'defense': 60, 'sp_atk': 95, 'sp_def': 60, 'speed': 55, 'id': 608, 'types': ['ghost', 'fire']}
+{'name': 'Chandelure', 'weight': u'343', 'generation': 5, 'hp': 60, 'attack': 55, 'defense': 90, 'sp_atk': 145, 'sp_def': 90, 'speed': 80, 'id': 609, 'types': ['ghost', 'fire']}
+{'name': 'Axew', 'weight': u'180', 'generation': 5, 'hp': 46, 'attack': 87, 'defense': 60, 'sp_atk': 30, 'sp_def': 40, 'speed': 57, 'id': 610, 'types': ['dragon']}
+{'name': 'Fraxure', 'weight': u'360', 'generation': 5, 'hp': 66, 'attack': 117, 'defense': 70, 'sp_atk': 40, 'sp_def': 50, 'speed': 67, 'id': 611, 'types': ['dragon']}
+{'name': 'Haxorus', 'weight': u'1055', 'generation': 5, 'hp': 76, 'attack': 147, 'defense': 90, 'sp_atk': 60, 'sp_def': 70, 'speed': 97, 'id': 612, 'types': ['dragon']}
+{'name': 'Cubchoo', 'weight': u'85', 'generation': 5, 'hp': 55, 'attack': 70, 'defense': 40, 'sp_atk': 60, 'sp_def': 40, 'speed': 40, 'id': 613, 'types': ['ice']}
+{'name': 'Beartic', 'weight': u'2600', 'generation': 5, 'hp': 95, 'attack': 110, 'defense': 80, 'sp_atk': 70, 'sp_def': 80, 'speed': 50, 'id': 614, 'types': ['ice']}
+{'name': 'Cryogonal', 'weight': u'1480', 'generation': 5, 'hp': 70, 'attack': 50, 'defense': 30, 'sp_atk': 95, 'sp_def': 135, 'speed': 105, 'id': 615, 'types': ['ice']}
+{'name': 'Shelmet', 'weight': u'77', 'generation': 5, 'hp': 50, 'attack': 40, 'defense': 85, 'sp_atk': 40, 'sp_def': 65, 'speed': 25, 'id': 616, 'types': ['bug']}
+{'name': 'Accelgor', 'weight': u'253', 'generation': 5, 'hp': 80, 'attack': 70, 'defense': 40, 'sp_atk': 100, 'sp_def': 60, 'speed': 145, 'id': 617, 'types': ['bug']}
+{'name': 'Stunfisk', 'weight': u'110', 'generation': 5, 'hp': 109, 'attack': 66, 'defense': 84, 'sp_atk': 81, 'sp_def': 99, 'speed': 32, 'id': 618, 'types': ['ground', 'electric']}
+{'name': 'Mienfoo', 'weight': u'200', 'generation': 5, 'hp': 45, 'attack': 85, 'defense': 50, 'sp_atk': 55, 'sp_def': 50, 'speed': 65, 'id': 619, 'types': ['fighting']}
+{'name': 'Mienshao', 'weight': u'355', 'generation': 5, 'hp': 65, 'attack': 125, 'defense': 60, 'sp_atk': 95, 'sp_def': 60, 'speed': 105, 'id': 620, 'types': ['fighting']}
+{'name': 'Druddigon', 'weight': u'1390', 'generation': 5, 'hp': 77, 'attack': 120, 'defense': 90, 'sp_atk': 60, 'sp_def': 90, 'speed': 48, 'id': 621, 'types': ['dragon']}
+{'name': 'Golett', 'weight': u'920', 'generation': 5, 'hp': 59, 'attack': 74, 'defense': 50, 'sp_atk': 35, 'sp_def': 50, 'speed': 35, 'id': 622, 'types': ['ground', 'ghost']}
+{'name': 'Golurk', 'weight': u'3300', 'generation': 5, 'hp': 89, 'attack': 124, 'defense': 80, 'sp_atk': 55, 'sp_def': 80, 'speed': 55, 'id': 623, 'types': ['ground', 'ghost']}
+{'name': 'Pawniard', 'weight': u'102', 'generation': 5, 'hp': 45, 'attack': 85, 'defense': 70, 'sp_atk': 40, 'sp_def': 40, 'speed': 60, 'id': 624, 'types': ['steel', 'dark']}
+{'name': 'Bisharp', 'weight': u'700', 'generation': 5, 'hp': 65, 'attack': 125, 'defense': 100, 'sp_atk': 60, 'sp_def': 70, 'speed': 70, 'id': 625, 'types': ['steel', 'dark']}
+{'name': 'Bouffalant', 'weight': u'946', 'generation': 5, 'hp': 95, 'attack': 110, 'defense': 95, 'sp_atk': 40, 'sp_def': 95, 'speed': 55, 'id': 626, 'types': ['normal']}
+{'name': 'Rufflet', 'weight': u'105', 'generation': 5, 'hp': 70, 'attack': 83, 'defense': 50, 'sp_atk': 37, 'sp_def': 50, 'speed': 60, 'id': 627, 'types': ['normal', 'flying']}
+{'name': 'Braviary', 'weight': u'410', 'generation': 5, 'hp': 100, 'attack': 123, 'defense': 75, 'sp_atk': 57, 'sp_def': 75, 'speed': 80, 'id': 628, 'types': ['normal', 'flying']}
+{'name': 'Vullaby', 'weight': u'90', 'generation': 5, 'hp': 70, 'attack': 55, 'defense': 75, 'sp_atk': 45, 'sp_def': 65, 'speed': 60, 'id': 629, 'types': ['flying', 'dark']}
+{'name': 'Mandibuzz', 'weight': u'395', 'generation': 5, 'hp': 110, 'attack': 65, 'defense': 105, 'sp_atk': 55, 'sp_def': 95, 'speed': 80, 'id': 630, 'types': ['flying', 'dark']}
+{'name': 'Heatmor', 'weight': u'580', 'generation': 5, 'hp': 85, 'attack': 97, 'defense': 66, 'sp_atk': 105, 'sp_def': 66, 'speed': 65, 'id': 631, 'types': ['fire']}
+{'name': 'Durant', 'weight': u'330', 'generation': 5, 'hp': 58, 'attack': 109, 'defense': 112, 'sp_atk': 48, 'sp_def': 48, 'speed': 109, 'id': 632, 'types': ['bug', 'steel']}
+{'name': 'Deino', 'weight': u'173', 'generation': 5, 'hp': 52, 'attack': 65, 'defense': 50, 'sp_atk': 45, 'sp_def': 50, 'speed': 38, 'id': 633, 'types': ['dragon', 'dark']}
+{'name': 'Zweilous', 'weight': u'500', 'generation': 5, 'hp': 72, 'attack': 85, 'defense': 70, 'sp_atk': 65, 'sp_def': 70, 'speed': 58, 'id': 634, 'types': ['dragon', 'dark']}
+{'name': 'Hydreigon', 'weight': u'1600', 'generation': 5, 'hp': 92, 'attack': 105, 'defense': 90, 'sp_atk': 125, 'sp_def': 90, 'speed': 98, 'id': 635, 'types': ['dragon', 'dark']}
+{'name': 'Larvesta', 'weight': u'288', 'generation': 5, 'hp': 55, 'attack': 85, 'defense': 55, 'sp_atk': 50, 'sp_def': 55, 'speed': 60, 'id': 636, 'types': ['bug', 'fire']}
+{'name': 'Volcarona', 'weight': u'460', 'generation': 5, 'hp': 85, 'attack': 60, 'defense': 65, 'sp_atk': 135, 'sp_def': 105, 'speed': 100, 'id': 637, 'types': ['bug', 'fire']}
+{'name': 'Cobalion', 'weight': u'2500', 'generation': 5, 'hp': 91, 'attack': 90, 'defense': 129, 'sp_atk': 90, 'sp_def': 72, 'speed': 108, 'id': 638, 'types': ['fighting', 'steel']}
+{'name': 'Terrakion', 'weight': u'2600', 'generation': 5, 'hp': 91, 'attack': 129, 'defense': 90, 'sp_atk': 72, 'sp_def': 90, 'speed': 108, 'id': 639, 'types': ['fighting', 'rock']}
+{'name': 'Virizion', 'weight': u'2000', 'generation': 5, 'hp': 91, 'attack': 90, 'defense': 72, 'sp_atk': 90, 'sp_def': 129, 'speed': 108, 'id': 640, 'types': ['fighting', 'grass']}
+{'name': 'Tornadus-incarnate', 'weight': u'630', 'generation': 5, 'hp': 79, 'attack': 115, 'defense': 70, 'sp_atk': 125, 'sp_def': 80, 'speed': 111, 'id': 641, 'types': ['flying']}
+{'name': 'Thundurus-incarnate', 'weight': u'610', 'generation': 5, 'hp': 79, 'attack': 115, 'defense': 70, 'sp_atk': 125, 'sp_def': 80, 'speed': 111, 'id': 642, 'types': ['flying', 'electric']}
+{'name': 'Reshiram', 'weight': u'3300', 'generation': 5, 'hp': 100, 'attack': 120, 'defense': 100, 'sp_atk': 150, 'sp_def': 120, 'speed': 90, 'id': 643, 'types': ['fire', 'dragon']}
+{'name': 'Zekrom', 'weight': u'3450', 'generation': 5, 'hp': 100, 'attack': 150, 'defense': 120, 'sp_atk': 120, 'sp_def': 100, 'speed': 90, 'id': 644, 'types': ['electric', 'dragon']}
+{'name': 'Landorus-incarnate', 'weight': u'680', 'generation': 5, 'hp': 89, 'attack': 125, 'defense': 90, 'sp_atk': 115, 'sp_def': 80, 'speed': 101, 'id': 645, 'types': ['flying', 'ground']}
+{'name': 'Kyurem', 'weight': u'3250', 'generation': 5, 'hp': 125, 'attack': 130, 'defense': 90, 'sp_atk': 130, 'sp_def': 90, 'speed': 95, 'id': 646, 'types': ['ice', 'dragon']}
+{'name': 'Keldeo-ordinary', 'weight': u'485', 'generation': 5, 'hp': 91, 'attack': 72, 'defense': 90, 'sp_atk': 129, 'sp_def': 90, 'speed': 108, 'id': 647, 'types': ['fighting', 'water']}
+{'name': 'Meloetta-aria', 'weight': u'65', 'generation': 5, 'hp': 100, 'attack': 77, 'defense': 77, 'sp_atk': 128, 'sp_def': 128, 'speed': 90, 'id': 648, 'types': ['normal', 'psychic']}
+{'name': 'Genesect', 'weight': u'825', 'generation': 5, 'hp': 71, 'attack': 120, 'defense': 95, 'sp_atk': 120, 'sp_def': 95, 'speed': 99, 'id': 649, 'types': ['bug', 'steel']}
+{'name': 'Chespin', 'weight': u'0', 'generation': 6, 'hp': 56, 'attack': 61, 'defense': 65, 'sp_atk': 48, 'sp_def': 45, 'speed': 38, 'id': 650, 'types': ['grass']}
+{'name': 'Quilladin', 'weight': u'0', 'generation': 6, 'hp': 61, 'attack': 78, 'defense': 95, 'sp_atk': 56, 'sp_def': 58, 'speed': 57, 'id': 651, 'types': ['grass']}
+{'name': 'Chesnaught', 'weight': u'0', 'generation': 6, 'hp': 88, 'attack': 107, 'defense': 122, 'sp_atk': 74, 'sp_def': 75, 'speed': 64, 'id': 652, 'types': ['fighting', 'grass']}
+{'name': 'Fennekin', 'weight': u'0', 'generation': 6, 'hp': 40, 'attack': 45, 'defense': 40, 'sp_atk': 62, 'sp_def': 60, 'speed': 60, 'id': 653, 'types': ['fire']}
+{'name': 'Braixen', 'weight': u'0', 'generation': 6, 'hp': 59, 'attack': 59, 'defense': 58, 'sp_atk': 90, 'sp_def': 70, 'speed': 73, 'id': 654, 'types': ['fire']}
+{'name': 'Delphox', 'weight': u'0', 'generation': 6, 'hp': 75, 'attack': 69, 'defense': 72, 'sp_atk': 114, 'sp_def': 100, 'speed': 104, 'id': 655, 'types': ['fire', 'psychic']}
+{'name': 'Froakie', 'weight': u'0', 'generation': 6, 'hp': 41, 'attack': 56, 'defense': 41, 'sp_atk': 62, 'sp_def': 44, 'speed': 71, 'id': 656, 'types': ['water']}
+{'name': 'Frogadier', 'weight': u'0', 'generation': 6, 'hp': 54, 'attack': 63, 'defense': 52, 'sp_atk': 83, 'sp_def': 56, 'speed': 97, 'id': 657, 'types': ['water']}
+{'name': 'Greninja', 'weight': u'0', 'generation': 6, 'hp': 72, 'attack': 95, 'defense': 67, 'sp_atk': 103, 'sp_def': 71, 'speed': 122, 'id': 658, 'types': ['water', 'dark']}
+{'name': 'Bunnelby', 'weight': u'0', 'generation': 6, 'hp': 38, 'attack': 36, 'defense': 38, 'sp_atk': 32, 'sp_def': 36, 'speed': 57, 'id': 659, 'types': ['normal']}
+{'name': 'Diggersby', 'weight': u'0', 'generation': 6, 'hp': 85, 'attack': 56, 'defense': 77, 'sp_atk': 50, 'sp_def': 77, 'speed': 78, 'id': 660, 'types': ['normal', 'ground']}
+{'name': 'Fletchling', 'weight': u'0', 'generation': 6, 'hp': 45, 'attack': 50, 'defense': 43, 'sp_atk': 40, 'sp_def': 38, 'speed': 62, 'id': 661, 'types': ['normal', 'flying']}
+{'name': 'Fletchinder', 'weight': u'0', 'generation': 6, 'hp': 62, 'attack': 73, 'defense': 55, 'sp_atk': 56, 'sp_def': 52, 'speed': 84, 'id': 662, 'types': ['flying', 'fire']}
+{'name': 'Talonflame', 'weight': u'0', 'generation': 6, 'hp': 78, 'attack': 81, 'defense': 71, 'sp_atk': 74, 'sp_def': 69, 'speed': 126, 'id': 663, 'types': ['flying', 'fire']}
+{'name': 'Scatterbug', 'weight': u'0', 'generation': 6, 'hp': 38, 'attack': 35, 'defense': 40, 'sp_atk': 27, 'sp_def': 25, 'speed': 35, 'id': 664, 'types': ['bug']}
+{'name': 'Spewpa', 'weight': u'0', 'generation': 6, 'hp': 45, 'attack': 22, 'defense': 60, 'sp_atk': 27, 'sp_def': 30, 'speed': 29, 'id': 665, 'types': ['bug']}
+{'name': 'Vivillon', 'weight': u'0', 'generation': 6, 'hp': 80, 'attack': 52, 'defense': 50, 'sp_atk': 90, 'sp_def': 50, 'speed': 89, 'id': 666, 'types': ['flying', 'bug']}
+{'name': 'Litleo', 'weight': u'0', 'generation': 6, 'hp': 62, 'attack': 50, 'defense': 58, 'sp_atk': 73, 'sp_def': 54, 'speed': 72, 'id': 667, 'types': ['normal', 'fire']}
+{'name': 'Pyroar', 'weight': u'0', 'generation': 6, 'hp': 86, 'attack': 68, 'defense': 72, 'sp_atk': 109, 'sp_def': 66, 'speed': 106, 'id': 668, 'types': ['normal', 'fire']}
+{'name': 'Flabebe', 'weight': u'0', 'generation': 6, 'hp': 44, 'attack': 38, 'defense': 39, 'sp_atk': 61, 'sp_def': 79, 'speed': 42, 'id': 669, 'types': ['fairy']}
+{'name': 'Floette', 'weight': u'0', 'generation': 6, 'hp': 54, 'attack': 45, 'defense': 47, 'sp_atk': 75, 'sp_def': 98, 'speed': 52, 'id': 670, 'types': ['fairy']}
+{'name': 'Florges', 'weight': u'0', 'generation': 6, 'hp': 78, 'attack': 65, 'defense': 68, 'sp_atk': 112, 'sp_def': 154, 'speed': 75, 'id': 671, 'types': ['fairy']}
+{'name': 'Skiddo', 'weight': u'0', 'generation': 6, 'hp': 66, 'attack': 65, 'defense': 48, 'sp_atk': 62, 'sp_def': 57, 'speed': 52, 'id': 672, 'types': ['grass']}
+{'name': 'Gogoat', 'weight': u'0', 'generation': 6, 'hp': 123, 'attack': 100, 'defense': 62, 'sp_atk': 97, 'sp_def': 81, 'speed': 68, 'id': 673, 'types': ['grass']}
+{'name': 'Pancham', 'weight': u'0', 'generation': 6, 'hp': 67, 'attack': 82, 'defense': 62, 'sp_atk': 46, 'sp_def': 48, 'speed': 43, 'id': 674, 'types': ['fighting']}
+{'name': 'Pangoro', 'weight': u'0', 'generation': 6, 'hp': 95, 'attack': 124, 'defense': 78, 'sp_atk': 69, 'sp_def': 71, 'speed': 58, 'id': 675, 'types': ['fighting', 'dark']}
+{'name': 'Furfrou', 'weight': u'0', 'generation': 6, 'hp': 75, 'attack': 80, 'defense': 60, 'sp_atk': 65, 'sp_def': 90, 'speed': 102, 'id': 676, 'types': ['normal']}
+{'name': 'Espurr', 'weight': u'0', 'generation': 6, 'hp': 62, 'attack': 48, 'defense': 54, 'sp_atk': 63, 'sp_def': 60, 'speed': 68, 'id': 677, 'types': ['psychic']}
+{'name': 'Meowstic-male', 'weight': u'0', 'generation': 6, 'hp': 74, 'attack': 48, 'defense': 76, 'sp_atk': 83, 'sp_def': 81, 'speed': 104, 'id': 678, 'types': ['psychic']}
+{'name': 'Honedge', 'weight': u'0', 'generation': 6, 'hp': 45, 'attack': 80, 'defense': 100, 'sp_atk': 35, 'sp_def': 37, 'speed': 28, 'id': 679, 'types': ['ghost', 'steel']}
+{'name': 'Doublade', 'weight': u'0', 'generation': 6, 'hp': 59, 'attack': 110, 'defense': 150, 'sp_atk': 45, 'sp_def': 49, 'speed': 35, 'id': 680, 'types': ['ghost', 'steel']}
+{'name': 'Aegislash', 'weight': u'0', 'generation': 6, 'hp': 60, 'attack': 50, 'defense': 150, 'sp_atk': 50, 'sp_def': 150, 'speed': 60, 'id': 681, 'types': ['ghost', 'steel']}
+{'name': 'Spritzee', 'weight': u'0', 'generation': 6, 'hp': 78, 'attack': 52, 'defense': 60, 'sp_atk': 63, 'sp_def': 65, 'speed': 23, 'id': 682, 'types': ['fairy']}
+{'name': 'Aromatisse', 'weight': u'0', 'generation': 6, 'hp': 101, 'attack': 72, 'defense': 72, 'sp_atk': 99, 'sp_def': 89, 'speed': 29, 'id': 683, 'types': ['fairy']}
+{'name': 'Swirlix', 'weight': u'0', 'generation': 6, 'hp': 62, 'attack': 48, 'defense': 66, 'sp_atk': 59, 'sp_def': 57, 'speed': 49, 'id': 684, 'types': ['fairy']}
+{'name': 'Slurpuff', 'weight': u'0', 'generation': 6, 'hp': 82, 'attack': 80, 'defense': 86, 'sp_atk': 85, 'sp_def': 75, 'speed': 72, 'id': 685, 'types': ['fairy']}
+{'name': 'Inkay', 'weight': u'0', 'generation': 6, 'hp': 53, 'attack': 54, 'defense': 53, 'sp_atk': 37, 'sp_def': 46, 'speed': 45, 'id': 686, 'types': ['dark', 'psychic']}
+{'name': 'Malamar', 'weight': u'0', 'generation': 6, 'hp': 86, 'attack': 92, 'defense': 88, 'sp_atk': 68, 'sp_def': 75, 'speed': 73, 'id': 687, 'types': ['dark', 'psychic']}
+{'name': 'Binacle', 'weight': u'0', 'generation': 6, 'hp': 42, 'attack': 52, 'defense': 67, 'sp_atk': 39, 'sp_def': 56, 'speed': 50, 'id': 688, 'types': ['rock', 'water']}
+{'name': 'Barbaracle', 'weight': u'0', 'generation': 6, 'hp': 72, 'attack': 105, 'defense': 115, 'sp_atk': 54, 'sp_def': 86, 'speed': 68, 'id': 689, 'types': ['rock', 'water']}
+{'name': 'Skrelp', 'weight': u'0', 'generation': 6, 'hp': 50, 'attack': 60, 'defense': 60, 'sp_atk': 60, 'sp_def': 60, 'speed': 30, 'id': 690, 'types': ['poison', 'water']}
+{'name': 'Dragalge', 'weight': u'0', 'generation': 6, 'hp': 65, 'attack': 75, 'defense': 90, 'sp_atk': 97, 'sp_def': 123, 'speed': 44, 'id': 691, 'types': ['poison', 'dragon']}
+{'name': 'Clauncher', 'weight': u'0', 'generation': 6, 'hp': 50, 'attack': 53, 'defense': 62, 'sp_atk': 58, 'sp_def': 63, 'speed': 44, 'id': 692, 'types': ['water']}
+{'name': 'Clawitzer', 'weight': u'0', 'generation': 6, 'hp': 71, 'attack': 73, 'defense': 88, 'sp_atk': 120, 'sp_def': 89, 'speed': 63, 'id': 693, 'types': ['water']}
+{'name': 'Helioptile', 'weight': u'0', 'generation': 6, 'hp': 44, 'attack': 38, 'defense': 33, 'sp_atk': 61, 'sp_def': 43, 'speed': 70, 'id': 694, 'types': ['normal', 'electric']}
+{'name': 'Heliolisk', 'weight': u'0', 'generation': 6, 'hp': 62, 'attack': 55, 'defense': 52, 'sp_atk': 109, 'sp_def': 94, 'speed': 109, 'id': 695, 'types': ['normal', 'electric']}
+{'name': 'Tyrunt', 'weight': u'0', 'generation': 6, 'hp': 58, 'attack': 89, 'defense': 77, 'sp_atk': 45, 'sp_def': 45, 'speed': 48, 'id': 696, 'types': ['rock', 'dragon']}
+{'name': 'Tyrantrum', 'weight': u'0', 'generation': 6, 'hp': 82, 'attack': 121, 'defense': 119, 'sp_atk': 69, 'sp_def': 59, 'speed': 71, 'id': 697, 'types': ['rock', 'dragon']}
+{'name': 'Amaura', 'weight': u'0', 'generation': 6, 'hp': 77, 'attack': 59, 'defense': 50, 'sp_atk': 67, 'sp_def': 63, 'speed': 46, 'id': 698, 'types': ['rock', 'ice']}
+{'name': 'Aurorus', 'weight': u'0', 'generation': 6, 'hp': 123, 'attack': 77, 'defense': 72, 'sp_atk': 99, 'sp_def': 92, 'speed': 58, 'id': 699, 'types': ['rock', 'ice']}
+{'name': 'Sylveon', 'weight': u'0', 'generation': 6, 'hp': 95, 'attack': 65, 'defense': 65, 'sp_atk': 110, 'sp_def': 130, 'speed': 60, 'id': 700, 'types': ['fairy']}
+{'name': 'Hawlucha', 'weight': u'0', 'generation': 6, 'hp': 78, 'attack': 92, 'defense': 77, 'sp_atk': 74, 'sp_def': 63, 'speed': 118, 'id': 701, 'types': ['fighting', 'flying']}
+{'name': 'Dedenne', 'weight': u'0', 'generation': 6, 'hp': 67, 'attack': 58, 'defense': 57, 'sp_atk': 81, 'sp_def': 67, 'speed': 101, 'id': 702, 'types': ['electric', 'fairy']}
+{'name': 'Carbink', 'weight': u'0', 'generation': 6, 'hp': 50, 'attack': 50, 'defense': 150, 'sp_atk': 50, 'sp_def': 150, 'speed': 50, 'id': 703, 'types': ['rock', 'fairy']}
+{'name': 'Goomy', 'weight': u'0', 'generation': 6, 'hp': 45, 'attack': 50, 'defense': 35, 'sp_atk': 55, 'sp_def': 75, 'speed': 40, 'id': 704, 'types': ['dragon']}
+{'name': 'Sliggoo', 'weight': u'0', 'generation': 6, 'hp': 68, 'attack': 75, 'defense': 53, 'sp_atk': 83, 'sp_def': 113, 'speed': 60, 'id': 705, 'types': ['dragon']}
+{'name': 'Goodra', 'weight': u'0', 'generation': 6, 'hp': 90, 'attack': 100, 'defense': 70, 'sp_atk': 110, 'sp_def': 150, 'speed': 80, 'id': 706, 'types': ['dragon']}
+{'name': 'Klefki', 'weight': u'0', 'generation': 6, 'hp': 58, 'attack': 81, 'defense': 91, 'sp_atk': 81, 'sp_def': 87, 'speed': 76, 'id': 707, 'types': ['steel', 'fairy']}
+{'name': 'Phantump', 'weight': u'0', 'generation': 6, 'hp': 43, 'attack': 70, 'defense': 48, 'sp_atk': 50, 'sp_def': 60, 'speed': 38, 'id': 708, 'types': ['ghost', 'grass']}
+{'name': 'Trevenant', 'weight': u'0', 'generation': 6, 'hp': 85, 'attack': 110, 'defense': 76, 'sp_atk': 65, 'sp_def': 82, 'speed': 56, 'id': 709, 'types': ['ghost', 'grass']}
+{'name': 'Pumpkaboo-average', 'weight': u'0', 'generation': 6, 'hp': 49, 'attack': 66, 'defense': 70, 'sp_atk': 44, 'sp_def': 55, 'speed': 51, 'id': 710, 'types': ['ghost', 'grass']}
+{'name': 'Gourgeist-average', 'weight': u'0', 'generation': 6, 'hp': 65, 'attack': 90, 'defense': 122, 'sp_atk': 58, 'sp_def': 75, 'speed': 84, 'id': 711, 'types': ['ghost', 'grass']}
+{'name': 'Bergmite', 'weight': u'0', 'generation': 6, 'hp': 56, 'attack': 69, 'defense': 86, 'sp_atk': 32, 'sp_def': 36, 'speed': 28, 'id': 712, 'types': ['ice']}
+{'name': 'Avalugg', 'weight': u'0', 'generation': 6, 'hp': 95, 'attack': 117, 'defense': 184, 'sp_atk': 44, 'sp_def': 46, 'speed': 28, 'id': 713, 'types': ['ice']}
+{'name': 'Noibat', 'weight': u'0', 'generation': 6, 'hp': 40, 'attack': 30, 'defense': 35, 'sp_atk': 45, 'sp_def': 40, 'speed': 55, 'id': 714, 'types': ['flying', 'dragon']}
+{'name': 'Noivern', 'weight': u'0', 'generation': 6, 'hp': 85, 'attack': 70, 'defense': 80, 'sp_atk': 97, 'sp_def': 80, 'speed': 123, 'id': 715, 'types': ['flying', 'dragon']}
+{'name': 'Xerneas', 'weight': u'0', 'generation': 6, 'hp': 126, 'attack': 131, 'defense': 95, 'sp_atk': 131, 'sp_def': 98, 'speed': 99, 'id': 716, 'types': ['fairy']}
+{'name': 'Yveltal', 'weight': u'0', 'generation': 6, 'hp': 126, 'attack': 131, 'defense': 95, 'sp_atk': 131, 'sp_def': 98, 'speed': 99, 'id': 717, 'types': ['flying', 'dark']}
+{'name': 'Zygarde', 'weight': u'0', 'generation': 6, 'hp': 108, 'attack': 100, 'defense': 121, 'sp_atk': 81, 'sp_def': 95, 'speed': 95, 'id': 718, 'types': ['ground', 'dragon']}
