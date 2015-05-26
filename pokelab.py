@@ -34,7 +34,6 @@ GENERATION = 4
 def scrape_data():
 	x = open("inst2.txt", "w+")
 	try:
-		# counter = 0
 		for i in range(1, 730):
 			data =requests.get("http://pokeapi.co/api/v1/pokemon/" + str(i)).json()
 			p = Pokemon(data)
@@ -42,13 +41,6 @@ def scrape_data():
 			print(str(p.__dict__), file=x)
 			print(str(data["name"]).upper() +" has been successfully created! Id: " + str(i) + ", Generation: " + str(p.generation))
 
-			# if "-" not in data["name"]:
-			# 	p = Pokemon(data)
-			# 	p.id = counter
-
-			# 	print(str(p.__dict__), file=x)
-			# 	print(str(data["name"]).upper() +" has been successfully created! Id: " + str(i) + ", Index: " + str(counter))
-			# 	counter += 1
 	finally:
 		x.close()
 
@@ -62,8 +54,6 @@ def initialize_pokedex():
 	pokedex = {}
 	for line in x:
 		pk = Pokemon(eval(line.rstrip()))
-		# for k, v in eval(line.rstrip()).iteritems():
-		# 	setattr(pk, k, v)
 		pokedex[pk.id] = pk
 	x.close()
 	return pokedex
@@ -102,7 +92,6 @@ def fitness(encoding):
 			typeset.add(t)
 		fitness_val += pk.statsum()
 	fitness_val *= len(typeset)
-	# fitness_val + 
 
 	FITNESS_TABLE[encoding] = fitness_val
 	return fitness_val

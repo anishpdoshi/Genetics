@@ -10,7 +10,6 @@ class Pokemon:
 		if (data):
 			#Name and generations
 			self.name = str(data["name"])
-			#self.generation, self.games = getAvailable(str(self.name))
 
 			#Stats
 			self.attack = data["attack"]
@@ -25,7 +24,6 @@ class Pokemon:
 			self.types = [el for el in data["types"]]
 			self.id = data["id"]
 
-			#To add trade support, just
 			if self.id <= 151:
 				self.generation = 1
 			elif self.id <= 251:
@@ -39,9 +37,6 @@ class Pokemon:
 			else:
 				self.generation = 6
 
-			#self.id WILL NOT BE REAL ID
-
-			#THIS WOULD BE REAL ID
 			
 	def statsum(self):
 		return self.attack + self.defense + self.speed + \

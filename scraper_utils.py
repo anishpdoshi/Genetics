@@ -20,7 +20,6 @@ def getAvailable(name):
 	first_available = unicode(table.find("small").string)
 
 	return (first_available, games)
-	# table.find("span")
 
 def generateTypeStrengths(row, types):
 	typeCor = {}
@@ -54,7 +53,6 @@ def getTypeMatrix(generation):
 	types = [str(el["title"]) for el in rows[1].find_all("a")]
 	index = 0
 	for row in rows[2:-1]:
-		#print(row)
 		type_matrix[types[index]] = generateTypeStrengths(row, types) 
 		index += 1
 	return (types, type_matrix)
